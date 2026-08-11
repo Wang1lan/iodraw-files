@@ -21,7 +21,7 @@
             <mxPoint x="420" y="172" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rr93-nnB1urRzR-16uhQ-6" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;rawPadded&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="rr93-nnB1urRzR-16uhQ-6" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;rawPadded&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="270" y="152" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rr93-nnB1urRzR-16uhQ-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rr93-nnB1urRzR-16uhQ-7" target="rr93-nnB1urRzR-16uhQ-16">
@@ -70,7 +70,7 @@
         <mxCell id="rr93-nnB1urRzR-16uhQ-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rr93-nnB1urRzR-16uhQ-17" target="rr93-nnB1urRzR-16uhQ-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rr93-nnB1urRzR-16uhQ-17" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;gplane=zero(raw)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="rr93-nnB1urRzR-16uhQ-17" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;gplane=zero(raw)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="770" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rr93-nnB1urRzR-16uhQ-23" value="&lt;div style=&quot;background-color: rgb(255, 255, 255); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; line-height: 22px; white-space: pre; font-size: 10px;&quot;&gt;&lt;div&gt;center = rawPadded(paddedRow, paddedColumn);&lt;/div&gt;&lt;div&gt;left2 = rawPadded(paddedRow, paddedColumn - &lt;span style=&quot;color: #098658;&quot;&gt;2&lt;/span&gt;);&lt;/div&gt;&lt;div&gt;right2 = rawPadded(paddedRow, paddedColumn + &lt;span style=&quot;color: #098658;&quot;&gt;2&lt;/span&gt;);&lt;/div&gt;&lt;div&gt;up2 = rawPadded(paddedRow - &lt;span style=&quot;color: #098658;&quot;&gt;2&lt;/span&gt;, paddedColumn);&lt;/div&gt;&lt;div&gt;down2 = rawPadded(paddedRow + &lt;span style=&quot;color: #098658;&quot;&gt;2&lt;/span&gt;, paddedColumn);&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
