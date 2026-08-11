@@ -77,13 +77,13 @@
             <mxPoint x="720" y="100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rr93-nnB1urRzR-16uhQ-26" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.51;exitY=0.975;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rr93-nnB1urRzR-16uhQ-8">
+        <mxCell id="rr93-nnB1urRzR-16uhQ-26" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.51;exitY=0.975;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="510.02857142857147" y="300.02857142857147" as="sourcePoint" />
-            <mxPoint x="750" y="250" as="targetPoint" />
+            <mxPoint x="495.5" y="214.75" as="sourcePoint" />
+            <mxPoint x="749" y="250" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="496" y="220" />
-              <mxPoint x="496" y="250" />
+              <mxPoint x="495" y="220" />
+              <mxPoint x="495" y="250" />
             </Array>
           </mxGeometry>
         </mxCell>
