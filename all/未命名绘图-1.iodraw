@@ -29,6 +29,11 @@
             <mxPoint x="770" y="85" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="rr93-nnB1urRzR-16uhQ-28" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rr93-nnB1urRzR-16uhQ-15">
+          <mxGeometry x="-0.1867" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="rr93-nnB1urRzR-16uhQ-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rr93-nnB1urRzR-16uhQ-7">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="655" y="250" as="targetPoint" />
@@ -70,12 +75,6 @@
         </mxCell>
         <mxCell id="rr93-nnB1urRzR-16uhQ-23" value="&lt;div style=&quot;background-color: rgb(255, 255, 255); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; line-height: 22px; white-space: pre; font-size: 10px;&quot;&gt;&lt;div&gt;center = rawPadded(i+2, j+2);&lt;/div&gt;&lt;div&gt;left2 = rawPadded(i+2, j);&lt;/div&gt;&lt;div&gt;right2 = rawPadded(i+2, j+4);&lt;/div&gt;&lt;div&gt;up2 = rawPadded(i, j+2);&lt;/div&gt;&lt;div&gt;down2 = rawPadded(i+4, j+2);&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;line-height: 22px;&quot;&gt;&lt;div&gt;greenLeft = rawPadded(i+2, j+1);&lt;/div&gt;&lt;div&gt;greenRight = rawPadded(i+2, j+3);&lt;/div&gt;&lt;div&gt;greenUp = rawPadded(i+1, j+2);&lt;/div&gt;&lt;div&gt;greenDown = rawPadded(i+3, j+2);&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="755" y="130" width="190" height="203" as="geometry" />
-        </mxCell>
-        <mxCell id="rr93-nnB1urRzR-16uhQ-25" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="670" y="150" as="sourcePoint" />
-            <mxPoint x="720" y="100" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="rr93-nnB1urRzR-16uhQ-26" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.51;exitY=0.975;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
