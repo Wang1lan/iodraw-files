@@ -212,8 +212,13 @@
         <mxCell id="rr93-nnB1urRzR-16uhQ-57" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;greenPadded&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="296" y="510" width="100.5" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="rr93-nnB1urRzR-16uhQ-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rr93-nnB1urRzR-16uhQ-63">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="381" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="rr93-nnB1urRzR-16uhQ-63" value="mod(i,2)==1&lt;div&gt;&amp;amp;&amp;amp;&lt;/div&gt;&lt;div&gt;mod(j,2)==1&lt;/div&gt;" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="150" y="605" width="150" height="90" as="geometry" />
+          <mxGeometry x="151" y="605" width="150" height="90" as="geometry" />
         </mxCell>
         <mxCell id="rr93-nnB1urRzR-16uhQ-66" value="&lt;h3 style=&quot;font-size: 23px;&quot;&gt;&lt;font style=&quot;font-size: 23px;&quot; color=&quot;#ff0808&quot;&gt;BG&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 23px;&quot; color=&quot;#ff0808&quot;&gt;GR&lt;/font&gt;&lt;/h3&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="12.5" y="90" width="73" height="61.25" as="geometry" />
