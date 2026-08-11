@@ -52,7 +52,10 @@
         <mxCell id="rr93-nnB1urRzR-16uhQ-16" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;gplane=raw(i,j)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="770" y="65" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rr93-nnB1urRzR-16uhQ-17" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;gplane&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="rr93-nnB1urRzR-16uhQ-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rr93-nnB1urRzR-16uhQ-17" target="rr93-nnB1urRzR-16uhQ-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rr93-nnB1urRzR-16uhQ-17" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;gplane=zero(raw)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="770" width="140" height="40" as="geometry" />
         </mxCell>
       </root>
