@@ -25,10 +25,10 @@
           <mxGeometry x="270" y="152" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rr93-nnB1urRzR-16uhQ-7" value="mod(i,2)==1&lt;div&gt;&amp;amp;&amp;amp;&lt;/div&gt;&lt;div&gt;mod(j,2)==1&lt;/div&gt;" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="410" y="19" width="150" height="90" as="geometry" />
+          <mxGeometry x="420" y="10" width="150" height="90" as="geometry" />
         </mxCell>
         <mxCell id="rr93-nnB1urRzR-16uhQ-8" value="mod(i,2)==0&lt;div&gt;&amp;amp;&amp;amp;&lt;/div&gt;&lt;div&gt;mod(j,2)==0&lt;/div&gt;" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="460" y="127" width="150" height="90" as="geometry" />
+          <mxGeometry x="420" y="127" width="150" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
