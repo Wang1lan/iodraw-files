@@ -350,10 +350,10 @@
         <mxCell id="w3LlvAn_nvqd5dCig-Z--32" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;raw1=rawPadded(i+1,j+2)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;raw2=rawPadded(i+3,j+2)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;green1=greenPadded(i+1,j+2)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;green2=greenPadded(i+3,j+2)&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="351" y="1080" width="209" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="w3LlvAn_nvqd5dCig-Z--34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="w3LlvAn_nvqd5dCig-Z--34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.007;exitY=0.522;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="w3LlvAn_nvqd5dCig-Z--28">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="312" y="1075" as="sourcePoint" />
-            <mxPoint x="361" y="1128" as="targetPoint" />
+            <mxPoint x="350" y="1010" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
