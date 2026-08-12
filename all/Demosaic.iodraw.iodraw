@@ -243,7 +243,8 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="560" y="780" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="520" y="701" />
+              <mxPoint x="491" y="691" />
+              <mxPoint x="520" y="691" />
               <mxPoint x="520" y="780" />
             </Array>
           </mxGeometry>
@@ -256,6 +257,9 @@
         </mxCell>
         <mxCell id="rr93-nnB1urRzR-16uhQ-70" value="rawSum =&lt;div&gt;rawPadded(i+1,j+1) +&lt;div&gt;rawPadded(i+1,j+3) +&lt;/div&gt;&lt;div&gt;rawPadded(i+3,j+1)&lt;/div&gt;&lt;/div&gt;&lt;div&gt;rawPadded(i+3,j+3)&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="561" y="630" width="136" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="w3LlvAn_nvqd5dCig-Z--8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="w3LlvAn_nvqd5dCig-Z--1" target="w3LlvAn_nvqd5dCig-Z--6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="w3LlvAn_nvqd5dCig-Z--1" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;greenSum =&lt;/span&gt;&lt;/div&gt;&lt;div&gt;greenPadded(i+1,j+1) +&lt;/div&gt;&lt;div&gt;greenPadded(i+1,j+3) +&lt;/div&gt;&lt;div&gt;greenPadded(i+3,j+1) +&lt;/div&gt;&lt;div&gt;greenPadded(i+3,j+3)&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="561" y="735" width="136" height="85" as="geometry" />
