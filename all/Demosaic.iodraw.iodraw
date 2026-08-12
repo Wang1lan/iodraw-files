@@ -807,6 +807,9 @@
         <mxCell id="w3LlvAn_nvqd5dCig-Z--246" value="方向梯度&lt;div&gt;hGrad/vGrad&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="362" y="1820" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="w3LlvAn_nvqd5dCig-Z--254" value="G候选值" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="361" y="1920" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
