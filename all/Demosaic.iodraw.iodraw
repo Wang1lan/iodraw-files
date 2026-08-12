@@ -338,6 +338,9 @@
         <mxCell id="w3LlvAn_nvqd5dCig-Z--27" value="第二阶段&lt;div&gt;计算B/R&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="330" y="747.5" width="125" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="w3LlvAn_nvqd5dCig-Z--33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="w3LlvAn_nvqd5dCig-Z--28" target="w3LlvAn_nvqd5dCig-Z--32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="w3LlvAn_nvqd5dCig-Z--28" value="mod(i,2)==1" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="152" y="1020" width="150" height="90" as="geometry" />
         </mxCell>
