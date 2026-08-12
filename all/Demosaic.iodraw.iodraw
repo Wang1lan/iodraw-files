@@ -817,7 +817,7 @@
           <mxGeometry x="64" y="36" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="w3LlvAn_nvqd5dCig-Z--250" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="500" y="1940" width="126.5" height="69" as="geometry" />
+          <mxGeometry x="360" y="1860" width="126.5" height="69" as="geometry" />
         </mxCell>
         <mxCell id="w3LlvAn_nvqd5dCig-Z--246" value="方向梯度&lt;div&gt;hGrad/vGrad&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="w3LlvAn_nvqd5dCig-Z--250">
           <mxGeometry width="120" height="60" as="geometry" />
