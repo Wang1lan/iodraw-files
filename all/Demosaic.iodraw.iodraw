@@ -673,7 +673,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="w3LlvAn_nvqd5dCig-Z--163" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=11;fillColor=none;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="460" y="270" width="60" height="60" as="geometry" />
+          <mxGeometry x="460" y="230" width="110" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
