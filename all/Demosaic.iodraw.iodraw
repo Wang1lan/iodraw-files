@@ -61,11 +61,14 @@
         <mxCell id="rr93-nnB1urRzR-16uhQ-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rr93-nnB1urRzR-16uhQ-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="660" y="460" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="597" y="460" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="rr93-nnB1urRzR-16uhQ-22" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;" parent="rr93-nnB1urRzR-16uhQ-21" vertex="1" connectable="0">
           <mxGeometry x="-0.0455" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-1" y="-24" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rr93-nnB1urRzR-16uhQ-7" value="mod(i,2)==1&lt;div&gt;&amp;amp;&amp;amp;&lt;/div&gt;&lt;div&gt;mod(j,2)==1&lt;/div&gt;" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
