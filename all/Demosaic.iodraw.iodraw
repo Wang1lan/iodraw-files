@@ -799,10 +799,10 @@
           <mxGeometry x="15" y="1860" width="116" height="60" as="geometry" />
         </mxCell>
         <mxCell id="w3LlvAn_nvqd5dCig-Z--239" value="&lt;b&gt;&lt;font color=&quot;#ff0808&quot;&gt;UQ12.0&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="200" y="1980" width="60" height="30" as="geometry" />
+          <mxGeometry x="78" y="1897" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="w3LlvAn_nvqd5dCig-Z--242" value="rawPad" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="1870" width="120" height="60" as="geometry" />
+          <mxGeometry x="190" y="1860" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
