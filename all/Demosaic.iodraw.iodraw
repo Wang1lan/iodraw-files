@@ -377,7 +377,7 @@
           <mxGeometry x="16.5" y="1320" width="220" height="75" as="geometry" />
         </mxCell>
         <mxCell id="w3LlvAn_nvqd5dCig-Z--45" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;raw1=rawPadded(i+1,j+2)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;raw2=rawPadded(i+3,j+2)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;green1=greenPadded(i+1,j+2)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;green2=greenPadded(i+3,j+2)&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="272" y="1200" width="209" height="80" as="geometry" />
+          <mxGeometry x="282" y="1200" width="178" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
