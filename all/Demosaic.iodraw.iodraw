@@ -553,7 +553,7 @@
             <mxRectangle width="60" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="w3LlvAn_nvqd5dCig-Z--138" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;rowspan=2;colspan=2;" vertex="1" parent="w3LlvAn_nvqd5dCig-Z--135">
+        <mxCell id="w3LlvAn_nvqd5dCig-Z--138" value="raw(i,j)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;rowspan=2;colspan=2;" vertex="1" parent="w3LlvAn_nvqd5dCig-Z--135">
           <mxGeometry x="120" width="120" height="80" as="geometry">
             <mxRectangle width="60" height="40" as="alternateBounds" />
           </mxGeometry>
