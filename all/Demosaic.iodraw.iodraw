@@ -678,6 +678,9 @@
             <mxRectangle width="37" height="28" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="w3LlvAn_nvqd5dCig-Z--165" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="560" y="420" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
