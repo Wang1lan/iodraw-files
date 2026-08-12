@@ -203,7 +203,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rr93-nnB1urRzR-16uhQ-52" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;gPlane&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="470" y="700" width="104" height="48.5" as="geometry" />
+          <mxGeometry x="470" y="711.5" width="104" height="37" as="geometry" />
         </mxCell>
         <mxCell id="rr93-nnB1urRzR-16uhQ-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rr93-nnB1urRzR-16uhQ-57" edge="1">
           <mxGeometry relative="1" as="geometry">
