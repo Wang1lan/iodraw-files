@@ -750,7 +750,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="w3LlvAn_nvqd5dCig-Z--286" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="450" y="53" width="320" height="200" as="geometry" />
+          <mxGeometry x="450" y="42" width="320" height="200" as="geometry" />
         </mxCell>
         <mxCell id="w3LlvAn_nvqd5dCig-Z--184" value="" style="group" vertex="1" connectable="0" parent="w3LlvAn_nvqd5dCig-Z--286">
           <mxGeometry x="20" y="14" width="240" height="170" as="geometry" />
@@ -758,7 +758,7 @@
         <mxCell id="w3LlvAn_nvqd5dCig-Z--69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;" edge="1" parent="w3LlvAn_nvqd5dCig-Z--184" source="w3LlvAn_nvqd5dCig-Z--57" target="w3LlvAn_nvqd5dCig-Z--68">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="w3LlvAn_nvqd5dCig-Z--70" value="组合裁剪" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;" vertex="1" connectable="0" parent="w3LlvAn_nvqd5dCig-Z--69">
+        <mxCell id="w3LlvAn_nvqd5dCig-Z--70" value="组合、裁剪" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;" vertex="1" connectable="0" parent="w3LlvAn_nvqd5dCig-Z--69">
           <mxGeometry x="0.0545" relative="1" as="geometry">
             <mxPoint x="1" as="offset" />
           </mxGeometry>
