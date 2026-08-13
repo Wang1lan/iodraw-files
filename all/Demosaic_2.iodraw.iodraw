@@ -788,7 +788,7 @@
           <mxGeometry x="1200" y="797" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="w_JlzvRmhurLej1kqBsP-195" value="&lt;b&gt;padG(i, j)&lt;/b&gt; = min(2^12-1, max(0, G_temp))" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1485" y="347.16" width="235" height="43" as="geometry" />
+          <mxGeometry x="1475" y="806" width="235" height="43" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
