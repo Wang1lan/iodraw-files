@@ -302,7 +302,7 @@
         <mxCell id="w_JlzvRmhurLej1kqBsP-70" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="w_JlzvRmhurLej1kqBsP-57">
           <mxGeometry y="77" width="210" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="w_JlzvRmhurLej1kqBsP-71" value="B3" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="w_JlzvRmhurLej1kqBsP-70">
+        <mxCell id="w_JlzvRmhurLej1kqBsP-71" value="B3" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#001DBC;overflow=hidden;fillColor=#0050ef;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontColor=#ffffff;" vertex="1" parent="w_JlzvRmhurLej1kqBsP-70">
           <mxGeometry width="42" height="40" as="geometry">
             <mxRectangle width="42" height="40" as="alternateBounds" />
           </mxGeometry>
