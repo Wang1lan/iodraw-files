@@ -820,8 +820,8 @@
         <mxCell id="w_JlzvRmhurLej1kqBsP-213" value="&lt;b&gt;&lt;font color=&quot;#ff0808&quot;&gt;u12&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="468" y="847" width="41" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="w_JlzvRmhurLej1kqBsP-212" value="Gr、Gb" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="532" y="784" width="60" height="30" as="geometry" />
+        <mxCell id="w_JlzvRmhurLej1kqBsP-212" value="Gr&amp;nbsp; &amp;nbsp; &amp;nbsp;Gb" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="527" y="784" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="w_JlzvRmhurLej1kqBsP-218" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.661;entryY=-0.046;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="w_JlzvRmhurLej1kqBsP-108" target="w_JlzvRmhurLej1kqBsP-123">
           <mxGeometry relative="1" as="geometry">
