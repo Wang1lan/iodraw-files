@@ -494,6 +494,9 @@
         <mxCell id="w_JlzvRmhurLej1kqBsP-123" value="padG(i, j) = min(2^12-1, max(0, G_temp))" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1770" y="187" width="250" height="43" as="geometry" />
         </mxCell>
+        <mxCell id="w_JlzvRmhurLej1kqBsP-124" value="&lt;b&gt;&lt;font color=&quot;#ff0808&quot;&gt;u14&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1756" y="179.68" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
