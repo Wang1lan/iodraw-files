@@ -243,12 +243,13 @@
             <mxPoint x="594" y="301" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="w_JlzvRmhurLej1kqBsP-92" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="w_JlzvRmhurLej1kqBsP-55" target="w_JlzvRmhurLej1kqBsP-89">
+        <mxCell id="w_JlzvRmhurLej1kqBsP-92" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.003;entryY=0.649;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="w_JlzvRmhurLej1kqBsP-55" target="w_JlzvRmhurLej1kqBsP-89">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="720" y="110" as="targetPoint" />
             <Array as="points">
               <mxPoint x="720" y="243" />
               <mxPoint x="720" y="112" />
+              <mxPoint x="775" y="112" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -409,7 +410,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="w_JlzvRmhurLej1kqBsP-89" value="hGrad_1st = G6 - G4&lt;b&gt;&lt;font color=&quot;#ff0808&quot;&gt;（s13）&lt;/font&gt;&lt;/b&gt;&lt;div&gt;abs_hGrad_1st = abs(hGrad_1st)&lt;b&gt;&lt;font color=&quot;#ff0808&quot;&gt;（u12）&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;hGrad_2nd_1 = B5 - B3&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;&quot; color=&quot;#ff0808&quot;&gt;&lt;b&gt;（s13）&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;hGrad_2nd_2 = B5 - B7&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#ff0808&quot;&gt;（s13）&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;hGrad_2nd =&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;hGrad_2nd_1 +&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;hGrad_2nd_2&lt;/span&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#ff0808&quot;&gt;（s14）&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;abs_&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;hGrad_2nd = abs(&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;hGrad_2nd&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#ff0808&quot;&gt;（u13）&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;hGrad =&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;abs_hGrad_1st +&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;abs_&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;hGrad_2nd&lt;/span&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#ff0808&quot;&gt;（u14）&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="760" y="13.310000000000002" width="290" height="156.69" as="geometry" />
+          <mxGeometry x="774" y="13.310000000000002" width="290" height="156.69" as="geometry" />
         </mxCell>
         <mxCell id="w_JlzvRmhurLej1kqBsP-90" value="&lt;b&gt;&lt;font color=&quot;#ff0808&quot;&gt;u12&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="118" y="322" width="41" height="20" as="geometry" />
