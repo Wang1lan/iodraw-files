@@ -527,7 +527,7 @@
         <mxCell id="w_JlzvRmhurLej1kqBsP-122" value="&lt;b&gt;&lt;font color=&quot;#ff0808&quot;&gt;s14&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1425" y="217" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="w_JlzvRmhurLej1kqBsP-123" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;padG(i-2, j-2)&lt;/b&gt; = min(2^12-1, max(0, G_temp))&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="w_JlzvRmhurLej1kqBsP-123" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;pG(i-2, j-2)&lt;/b&gt; = min(2^12-1, max(0, G_temp))&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1438" y="337.16" width="322" height="42.84" as="geometry" />
         </mxCell>
         <mxCell id="w_JlzvRmhurLej1kqBsP-124" value="&lt;b&gt;&lt;font color=&quot;#ff0808&quot;&gt;u12&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
