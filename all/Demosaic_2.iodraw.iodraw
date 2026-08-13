@@ -501,6 +501,11 @@
         <mxCell id="w_JlzvRmhurLej1kqBsP-125" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w_JlzvRmhurLej1kqBsP-117" target="w_JlzvRmhurLej1kqBsP-123">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="w_JlzvRmhurLej1kqBsP-128" value="clip" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="w_JlzvRmhurLej1kqBsP-125">
+          <mxGeometry x="-0.0462" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="w_JlzvRmhurLej1kqBsP-117" value="hvG_x4 = hG_x4 + cG_x4&amp;nbsp;&lt;b&gt;&lt;font color=&quot;#ff0808&quot;&gt;（s17）&lt;/font&gt;&lt;/b&gt;&lt;div&gt;G_temp = hvG_x4 &amp;gt;&amp;gt; 3&lt;b&gt;&lt;font color=&quot;#ff0808&quot;&gt;（s14）&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1200" y="328.66" width="210" height="60" as="geometry" />
         </mxCell>
@@ -510,7 +515,7 @@
         <mxCell id="w_JlzvRmhurLej1kqBsP-122" value="&lt;b&gt;&lt;font color=&quot;#ff0808&quot;&gt;s14&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1462" y="217" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="w_JlzvRmhurLej1kqBsP-123" value="padG(i, j) = min(2^12-1, max(0, G_temp))" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="w_JlzvRmhurLej1kqBsP-123" value="&lt;b&gt;padG(i, j)&lt;/b&gt; = min(2^12-1, max(0, G_temp))" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1475" y="337.15999999999997" width="250" height="43" as="geometry" />
         </mxCell>
         <mxCell id="w_JlzvRmhurLej1kqBsP-124" value="&lt;b&gt;&lt;font color=&quot;#ff0808&quot;&gt;u14&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
