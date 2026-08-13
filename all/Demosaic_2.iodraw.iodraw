@@ -925,7 +925,7 @@
         <mxCell id="uOPaxQk9c0zDQlM5kWj7-2" value="j = 3 : width + 2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
           <mxGeometry x="361" y="322" as="geometry" />
         </mxCell>
-        <mxCell id="uOPaxQk9c0zDQlM5kWj7-5" value="rgDiff_1 = R1 - G1&lt;div&gt;rgDiff_3 = R3 - G3&lt;/div&gt;&lt;div&gt;rgDiff_7 = R7 - G7&lt;/div&gt;&lt;div&gt;rgDiff_9 = R9 - G9&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="uOPaxQk9c0zDQlM5kWj7-5" value="rgDiff_1 = R1 - G1&lt;div&gt;rgDiff_3 = R3 - G3&lt;/div&gt;&lt;div&gt;rgDiff_7 = R7 - G7&lt;/div&gt;&lt;div&gt;rgDiff_9 = R9 - G9&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;sum_rgDiff_13 = rgDiff_1 + rgDiff_3&lt;/div&gt;&lt;div&gt;sum_rgDiff_79 = rgDiff_7 + rgDiff_9&lt;/div&gt;&lt;div&gt;sum_rgDiff = sum_rgDiff_13 + sum_rgDiff_79&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="706" y="351" width="270" height="220" as="geometry" />
         </mxCell>
         <mxCell id="uOPaxQk9c0zDQlM5kWj7-8" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;pB(i-2, j-2)&lt;/b&gt; = padRaw(i,j)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
