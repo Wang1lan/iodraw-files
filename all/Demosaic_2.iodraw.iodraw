@@ -779,8 +779,8 @@
         <mxCell id="w_JlzvRmhurLej1kqBsP-189" value="G_temp = vG &amp;gt;&amp;gt; 2" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1475" y="661" width="145" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="w_JlzvRmhurLej1kqBsP-192" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1245" y="797" width="120" height="60" as="geometry" />
+        <mxCell id="w_JlzvRmhurLej1kqBsP-192" value="hvG_x4 = hG_x4 + cG_x4 &lt;b&gt;&lt;font color=&quot;#ff0808&quot;&gt;（s17）&lt;/font&gt;&lt;/b&gt;&lt;div&gt;G_temp = hvG_x4 &amp;gt;&amp;gt; 3&lt;b&gt;&lt;font color=&quot;#ff0808&quot;&gt;（s14）&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1245" y="797" width="175" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
