@@ -410,8 +410,8 @@
         <mxCell id="w_JlzvRmhurLej1kqBsP-90" value="&lt;b&gt;&lt;font color=&quot;#ff0808&quot;&gt;u12&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="118" y="322" width="41" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="w_JlzvRmhurLej1kqBsP-96" value="hSum_1st = G6 + G4&lt;b&gt;&lt;font color=&quot;#ff0808&quot;&gt;（u13）&lt;/font&gt;&lt;/b&gt;&lt;div&gt;hSum_1st_x2 = hSum_1st&amp;nbsp; &amp;lt;&amp;lt; 1&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#ff0808&quot;&gt;（u14）&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;hSum_x4 = hSum_1st_x2 + hGrad_2nd&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1080" y="214" width="280" height="156.69" as="geometry" />
+        <mxCell id="w_JlzvRmhurLej1kqBsP-96" value="hSum_1st = G6 + G4&lt;b&gt;&lt;font color=&quot;#ff0808&quot;&gt;（u13）&lt;/font&gt;&lt;/b&gt;&lt;div&gt;hSum_1st_x2 = hSum_1st&amp;nbsp; &amp;lt;&amp;lt; 1&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#ff0808&quot;&gt;（u14）&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;hG_x4 = hSum_1st_x2 + hGrad_2nd&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="214" width="300" height="116" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
