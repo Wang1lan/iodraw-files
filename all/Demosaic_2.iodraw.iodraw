@@ -751,14 +751,19 @@
         <mxCell id="w_JlzvRmhurLej1kqBsP-187" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w_JlzvRmhurLej1kqBsP-179" target="w_JlzvRmhurLej1kqBsP-186">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="w_JlzvRmhurLej1kqBsP-188" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="w_JlzvRmhurLej1kqBsP-187">
+          <mxGeometry x="-0.16" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="w_JlzvRmhurLej1kqBsP-179" value="hGrad &amp;lt; vGrad" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1230" y="500" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="w_JlzvRmhurLej1kqBsP-183" value="G_temp = hG_x4 &amp;gt;&amp;gt; 2" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1475" y="510" width="145" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="w_JlzvRmhurLej1kqBsP-186" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1265" y="660" width="80" height="80" as="geometry" />
+        <mxCell id="w_JlzvRmhurLej1kqBsP-186" value="hGrad &amp;gt; vGrad" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="630" width="150" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
