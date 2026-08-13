@@ -861,7 +861,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="wAJ0qjPAS4wJXTEe_o5Z" name="第 2 页">
-    <mxGraphModel dx="1188" dy="618" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="1">
+    <mxGraphModel dx="983" dy="511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1231,7 +1231,7 @@
           <mxGeometry x="740" y="665" width="314" height="145" as="geometry" />
         </mxCell>
         <mxCell id="V79Abe15nXoY1JVVlJp9-57" value="bgDiff_4 = B4 - G4&lt;b&gt;&lt;font color=&quot;#ff0808&quot;&gt;（s13）&lt;/font&gt;&lt;/b&gt;&lt;div&gt;bgDiff_6 = B6 - G6&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#ff0808&quot;&gt;（s13）&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;sum_bgDiff = bgDiff_4 + bgDiff_6&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#ff0808&quot;&gt;（s14）&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;G_x2 = G5 &amp;lt;&amp;lt; 1&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#ff0808&quot;&gt;（u13）&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;B_temp_x2 =&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;sum_bgDiff + G_x2&lt;/span&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#ff0808&quot;&gt;（s15）&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;B_temp&lt;/b&gt; = B_temp_x4 &amp;gt;&amp;gt; 1&lt;/span&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#ff0808&quot;&gt;（s14）&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="750" y="675" width="314" height="145" as="geometry" />
+          <mxGeometry x="570" y="830" width="314" height="145" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
