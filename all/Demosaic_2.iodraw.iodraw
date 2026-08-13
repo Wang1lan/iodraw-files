@@ -472,21 +472,6 @@
         <mxCell id="w_JlzvRmhurLej1kqBsP-105" value="hGrad &amp;lt; vGrad" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1230" y="90" width="150" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="w_JlzvRmhurLej1kqBsP-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.699;entryY=0.035;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="w_JlzvRmhurLej1kqBsP-108" target="w_JlzvRmhurLej1kqBsP-123">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1680" y="330" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1681" y="130" />
-              <mxPoint x="1681" y="340" />
-              <mxPoint x="1681" y="340" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="w_JlzvRmhurLej1kqBsP-130" value="clip" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="w_JlzvRmhurLej1kqBsP-127">
-          <mxGeometry x="0.2836" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="w_JlzvRmhurLej1kqBsP-108" value="G_temp = hG_x4 &amp;gt;&amp;gt; 2" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1475" y="100" width="145" height="60" as="geometry" />
         </mxCell>
@@ -849,6 +834,9 @@
         </mxCell>
         <mxCell id="w_JlzvRmhurLej1kqBsP-212" value="Gr、Gb" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="569" y="784" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w_JlzvRmhurLej1kqBsP-218" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.661;entryY=0.066;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="w_JlzvRmhurLej1kqBsP-108" target="w_JlzvRmhurLej1kqBsP-123">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
