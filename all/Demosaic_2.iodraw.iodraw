@@ -937,7 +937,7 @@
           <mxGeometry x="740" y="122" width="314" height="210" as="geometry" />
         </mxCell>
         <mxCell id="uOPaxQk9c0zDQlM5kWj7-8" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;pB(i-2, j-2)&lt;/b&gt; = padRaw(i,j)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="706" y="40" width="314" height="60" as="geometry" />
+          <mxGeometry x="738" y="40" width="314" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uOPaxQk9c0zDQlM5kWj7-10" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
           <mxGeometry x="467" y="122" width="120" height="110" as="geometry" />
@@ -1015,6 +1015,11 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="660" y="202" as="sourcePoint" />
             <mxPoint x="710" y="152" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V79Abe15nXoY1JVVlJp9-6" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="V79Abe15nXoY1JVVlJp9-5">
+          <mxGeometry x="-0.0783" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
