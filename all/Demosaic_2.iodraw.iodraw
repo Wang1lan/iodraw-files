@@ -774,10 +774,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="w_JlzvRmhurLej1kqBsP-186" value="hGrad &amp;gt; vGrad" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1230" y="630" width="150" height="80" as="geometry" />
+          <mxGeometry x="1230" y="643" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="w_JlzvRmhurLej1kqBsP-189" value="G_temp = vG &amp;gt;&amp;gt; 2" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1475" y="640" width="145" height="60" as="geometry" />
+          <mxGeometry x="1475" y="653" width="145" height="60" as="geometry" />
         </mxCell>
         <mxCell id="w_JlzvRmhurLej1kqBsP-192" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1245" y="797" width="120" height="60" as="geometry" />
