@@ -457,6 +457,11 @@
         <mxCell id="w_JlzvRmhurLej1kqBsP-105" value="hGrad &amp;lt; vGrad" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1230" y="90" width="150" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="w_JlzvRmhurLej1kqBsP-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w_JlzvRmhurLej1kqBsP-108">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1680" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="w_JlzvRmhurLej1kqBsP-108" value="G_temp = hG_x4 &amp;gt;&amp;gt; 2" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1475" y="100" width="145" height="60" as="geometry" />
         </mxCell>
@@ -482,8 +487,8 @@
         <mxCell id="w_JlzvRmhurLej1kqBsP-126" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w_JlzvRmhurLej1kqBsP-115" target="w_JlzvRmhurLej1kqBsP-123">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1548" y="310" />
-              <mxPoint x="1550" y="310" />
+              <mxPoint x="1548" y="320" />
+              <mxPoint x="1548" y="320" />
             </Array>
           </mxGeometry>
         </mxCell>
