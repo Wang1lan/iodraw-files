@@ -734,6 +734,9 @@
         <mxCell id="w_JlzvRmhurLej1kqBsP-178" value="垂直梯度计算" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
           <mxGeometry x="771.0010436320295" y="798.9996079009446" as="geometry" />
         </mxCell>
+        <mxCell id="w_JlzvRmhurLej1kqBsP-179" value="hGrad &amp;lt; vGrad" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="100" width="150" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
