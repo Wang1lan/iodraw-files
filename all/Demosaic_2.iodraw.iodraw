@@ -15,7 +15,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="w_JlzvRmhurLej1kqBsP-2" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;raw&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;" vertex="1" parent="1">
+        <mxCell id="w_JlzvRmhurLej1kqBsP-2" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;raw(i,j)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="40" y="282" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="w_JlzvRmhurLej1kqBsP-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="w_JlzvRmhurLej1kqBsP-6">
