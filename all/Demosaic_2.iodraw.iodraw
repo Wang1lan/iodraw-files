@@ -1383,7 +1383,11 @@
           <mxGeometry x="1160" y="1192" width="41" height="20" as="geometry" />
         </mxCell>
         <mxCell id="V79Abe15nXoY1JVVlJp9-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.621;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="V79Abe15nXoY1JVVlJp9-34" target="V79Abe15nXoY1JVVlJp9-98">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="526" y="1240" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
