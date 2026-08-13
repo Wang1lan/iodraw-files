@@ -419,9 +419,6 @@
         <mxCell id="w_JlzvRmhurLej1kqBsP-90" value="&lt;b&gt;&lt;font color=&quot;#ff0808&quot;&gt;u12&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="134" y="300" width="41" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="w_JlzvRmhurLej1kqBsP-96" value="hSum_1st = G6 + G4&lt;b&gt;&lt;font color=&quot;#ff0808&quot;&gt;（u13）&lt;/font&gt;&lt;/b&gt;&lt;div&gt;hSum_1st_x2 = hSum_1st&amp;nbsp; &amp;lt;&amp;lt; 1&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#ff0808&quot;&gt;（u14）&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;hG_x4 = hSum_1st_x2 + hGrad_2nd&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#ff0808&quot;&gt;（s16）&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="970" y="620" width="286" height="56" as="geometry" />
-        </mxCell>
         <mxCell id="w_JlzvRmhurLej1kqBsP-107" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="w_JlzvRmhurLej1kqBsP-97" target="w_JlzvRmhurLej1kqBsP-105">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1201" y="340" as="targetPoint" />
@@ -493,6 +490,9 @@
         </mxCell>
         <mxCell id="w_JlzvRmhurLej1kqBsP-122" value="&lt;b&gt;&lt;font color=&quot;#ff0808&quot;&gt;s14&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1462" y="217" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w_JlzvRmhurLej1kqBsP-123" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1770" y="187" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
