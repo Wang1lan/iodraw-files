@@ -4,8 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="w_JlzvRmhurLej1kqBsP-1" value="第一阶段&lt;div&gt;计算G&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="470" y="567.75" width="125" height="60" as="geometry" />
+        <mxCell id="w_JlzvRmhurLej1kqBsP-1" value="第一阶段：&lt;span style=&quot;background-color: initial;&quot;&gt;计算G&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="30" y="30" width="160" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
