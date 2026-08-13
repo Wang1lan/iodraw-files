@@ -920,10 +920,10 @@
           <mxGeometry x="451" y="271" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="uOPaxQk9c0zDQlM5kWj7-1" value="i = 3 : height+2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="360" y="298" as="geometry" />
+          <mxGeometry x="353" y="298" as="geometry" />
         </mxCell>
         <mxCell id="uOPaxQk9c0zDQlM5kWj7-2" value="j = 3 : width + 2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="361" y="322" as="geometry" />
+          <mxGeometry x="354" y="322" as="geometry" />
         </mxCell>
         <mxCell id="cd976UFmpDfe1HHEmCnV-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uOPaxQk9c0zDQlM5kWj7-5" target="cd976UFmpDfe1HHEmCnV-2">
           <mxGeometry relative="1" as="geometry" />
