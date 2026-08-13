@@ -1166,9 +1166,12 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="V79Abe15nXoY1JVVlJp9-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="V79Abe15nXoY1JVVlJp9-34">
+        <mxCell id="V79Abe15nXoY1JVVlJp9-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="V79Abe15nXoY1JVVlJp9-34" target="V79Abe15nXoY1JVVlJp9-97">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="526" y="1060" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="526" y="1058" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="V79Abe15nXoY1JVVlJp9-81" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="V79Abe15nXoY1JVVlJp9-80">
@@ -1345,8 +1348,8 @@
         <mxCell id="V79Abe15nXoY1JVVlJp9-96" value="Gr" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="443" y="873.5" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="V79Abe15nXoY1JVVlJp9-97" value="bgDiff_4 = B4 - G4&lt;b&gt;&lt;font color=&quot;#ff0808&quot;&gt;（s13）&lt;/font&gt;&lt;/b&gt;&lt;div&gt;bgDiff_6 = B6 - G6&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#ff0808&quot;&gt;（s13）&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;sum_bgDiff = bgDiff_4 + bgDiff_6&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#ff0808&quot;&gt;（s14）&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;G_x2 = G5 &amp;lt;&amp;lt; 1&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#ff0808&quot;&gt;（u13）&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;B_temp_x2 =&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;sum_bgDiff + G_x2&lt;/span&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#ff0808&quot;&gt;（s15）&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;B_temp&lt;/b&gt; = B_temp_x4 &amp;gt;&amp;gt; 1&lt;/span&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#ff0808&quot;&gt;（s14）&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="750" y="650" width="314" height="145" as="geometry" />
+        <mxCell id="V79Abe15nXoY1JVVlJp9-97" value="bgDiff_2 = B2 - G2&lt;b&gt;&lt;font color=&quot;#ff0808&quot;&gt;（s13）&lt;/font&gt;&lt;/b&gt;&lt;div&gt;bgDiff_8 = B8 - G8&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#ff0808&quot;&gt;（s13）&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;sum_bgDiff = bgDiff_2 + bgDiff_8&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#ff0808&quot;&gt;（s14）&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;G_x2 = G5 &amp;lt;&amp;lt; 1&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#ff0808&quot;&gt;（u13）&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;B_temp_x2 =&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;sum_bgDiff + G_x2&lt;/span&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#ff0808&quot;&gt;（s15）&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;B_temp&lt;/b&gt; = B_temp_x4 &amp;gt;&amp;gt; 1&lt;/span&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#ff0808&quot;&gt;（s14）&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="985" width="314" height="145" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
