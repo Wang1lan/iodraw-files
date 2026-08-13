@@ -866,7 +866,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="7xTr1kKLke41VahgA1Fm-1" value="第二阶段：&lt;span style=&quot;background-color: initial;&quot;&gt;计算B、R&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="50" y="43" width="210" height="50" as="geometry" />
+          <mxGeometry x="90" y="61" width="210" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Ln449yZkn-yiFxR8D6Xf-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oNZTK1Z2ugnnK5aQyCcw-1">
           <mxGeometry relative="1" as="geometry">
@@ -1346,7 +1346,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="V79Abe15nXoY1JVVlJp9-96" value="Gr" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="430" y="830.5" width="40" height="30" as="geometry" />
+          <mxGeometry x="440" y="829.5" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="V79Abe15nXoY1JVVlJp9-100" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="V79Abe15nXoY1JVVlJp9-97" target="V79Abe15nXoY1JVVlJp9-99">
           <mxGeometry relative="1" as="geometry" />
