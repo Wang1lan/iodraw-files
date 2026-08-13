@@ -246,11 +246,6 @@
         <mxCell id="w_JlzvRmhurLej1kqBsP-92" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.003;entryY=0.649;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="w_JlzvRmhurLej1kqBsP-55" target="w_JlzvRmhurLej1kqBsP-89">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="720" y="110" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="720" y="243" />
-              <mxPoint x="720" y="112" />
-              <mxPoint x="775" y="112" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="w_JlzvRmhurLej1kqBsP-93" value="水平梯度计算" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="w_JlzvRmhurLej1kqBsP-92">
