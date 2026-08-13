@@ -767,6 +767,11 @@
             <mxPoint x="1630" y="800" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="RSc_dt2TFxefKU54W-58-6" value="clip" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RSc_dt2TFxefKU54W-58-4">
+          <mxGeometry x="0.2845" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="w_JlzvRmhurLej1kqBsP-183" value="G_temp = hG_x4 &amp;gt;&amp;gt; 2" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1438" y="510" width="145" height="60" as="geometry" />
         </mxCell>
@@ -794,7 +799,7 @@
             <mxPoint x="1510.5" y="800" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RSc_dt2TFxefKU54W-58-5" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RSc_dt2TFxefKU54W-58-3">
+        <mxCell id="RSc_dt2TFxefKU54W-58-5" value="clip" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RSc_dt2TFxefKU54W-58-3">
           <mxGeometry x="0.0185" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -828,7 +833,7 @@
           <mxGeometry x="1425" y="657" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="w_JlzvRmhurLej1kqBsP-204" value="&lt;b&gt;&lt;font color=&quot;#ff0808&quot;&gt;u12&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1424" y="800" width="60" height="30" as="geometry" />
+          <mxGeometry x="1410" y="797" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="w_JlzvRmhurLej1kqBsP-208" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;padG(i-2, j-2) &lt;/b&gt;= padRaw(i, j)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="452" y="847" width="220" height="51" as="geometry" />
