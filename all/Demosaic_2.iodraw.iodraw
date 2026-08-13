@@ -390,7 +390,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="w_JlzvRmhurLej1kqBsP-89" value="hGrad_1st = G6 - G4&lt;div&gt;abs_hGrad_1st = abs(hGrad_1st)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;hGrad_2rd_1 = B5 - B3&lt;/div&gt;&lt;div&gt;hGrad_2rd_2 = B5 - B7&lt;/div&gt;&lt;div&gt;hGrad_2rd =&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;hGrad_2rd_1 +&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;hGrad_2rd_2&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;abs_&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;hGrad_2rd = abs(&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;hGrad_2rd&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="960" y="184" width="310" height="136" as="geometry" />
+          <mxGeometry x="730" y="260" width="300" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
