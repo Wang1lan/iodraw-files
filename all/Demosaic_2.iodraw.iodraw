@@ -928,6 +928,11 @@
         <mxCell id="cd976UFmpDfe1HHEmCnV-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uOPaxQk9c0zDQlM5kWj7-5" target="cd976UFmpDfe1HHEmCnV-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="N2L9pn1VOM2tibyn0GrC-1" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cd976UFmpDfe1HHEmCnV-3">
+          <mxGeometry x="-0.06" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="uOPaxQk9c0zDQlM5kWj7-5" value="rgDiff_1 = R1 - G1&lt;div&gt;rgDiff_3 = R3 - G3&lt;/div&gt;&lt;div&gt;rgDiff_7 = R7 - G7&lt;/div&gt;&lt;div&gt;rgDiff_9 = R9 - G9&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;sum_rgDiff_13 = rgDiff_1 + rgDiff_3&lt;/div&gt;&lt;div&gt;sum_rgDiff_79 = rgDiff_7 + rgDiff_9&lt;/div&gt;&lt;div&gt;sum_rgDiff = sum_rgDiff_13 + sum_rgDiff_79&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;G_x4 = G5 &amp;lt;&amp;lt; 2&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;R_temp_x4 =&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;sum_rgDiff + G_x4&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;R_temp&lt;/b&gt; = R_temp_x4 &amp;gt;&amp;gt; 2&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="706" y="141" width="314" height="210" as="geometry" />
         </mxCell>
@@ -992,7 +997,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cd976UFmpDfe1HHEmCnV-2" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;pR(i-2, j-2) =&amp;nbsp;min(2^12-1, max(0, G_temp))&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="216" width="290" height="60" as="geometry" />
+          <mxGeometry x="1120" y="216" width="320" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
