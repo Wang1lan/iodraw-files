@@ -729,7 +729,10 @@
           <mxGeometry x="831" y="699" width="290" height="200" as="geometry" />
         </mxCell>
         <mxCell id="w_JlzvRmhurLej1kqBsP-177" value="水平梯度计算" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="770" y="600" as="geometry" />
+          <mxGeometry x="771" y="598" as="geometry" />
+        </mxCell>
+        <mxCell id="w_JlzvRmhurLej1kqBsP-178" value="垂直梯度计算" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="780.9810436320295" y="271.60960790094464" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
