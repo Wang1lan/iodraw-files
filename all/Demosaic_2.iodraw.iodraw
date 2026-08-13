@@ -1400,7 +1400,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="V79Abe15nXoY1JVVlJp9-134" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="26" y="960" width="324" height="260" as="geometry" />
+          <mxGeometry x="50" y="990" width="324" height="260" as="geometry" />
         </mxCell>
         <mxCell id="V79Abe15nXoY1JVVlJp9-112" value="第三阶段：&lt;span style=&quot;background-color: initial;&quot;&gt;合并G、B、R&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;fontFamily=Helvetica;" vertex="1" parent="V79Abe15nXoY1JVVlJp9-134">
           <mxGeometry y="1" width="290" height="50" as="geometry" />
@@ -1411,7 +1411,7 @@
         <mxCell id="V79Abe15nXoY1JVVlJp9-115" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;" edge="1" parent="V79Abe15nXoY1JVVlJp9-114" source="V79Abe15nXoY1JVVlJp9-117" target="V79Abe15nXoY1JVVlJp9-124">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="V79Abe15nXoY1JVVlJp9-116" value="组合、裁剪" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;" vertex="1" connectable="0" parent="V79Abe15nXoY1JVVlJp9-115">
+        <mxCell id="V79Abe15nXoY1JVVlJp9-116" value="cat" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;" vertex="1" connectable="0" parent="V79Abe15nXoY1JVVlJp9-115">
           <mxGeometry x="0.0545" relative="1" as="geometry">
             <mxPoint x="1" as="offset" />
           </mxGeometry>
