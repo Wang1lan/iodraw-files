@@ -1101,7 +1101,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="V79Abe15nXoY1JVVlJp9-25" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;pR(i-2, j-2)&lt;/b&gt; = padRaw(i,j)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="740" y="385" width="314" height="42" as="geometry" />
+          <mxGeometry x="740" y="350" width="314" height="42" as="geometry" />
         </mxCell>
         <mxCell id="V79Abe15nXoY1JVVlJp9-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="V79Abe15nXoY1JVVlJp9-27" target="V79Abe15nXoY1JVVlJp9-31">
           <mxGeometry relative="1" as="geometry" />
