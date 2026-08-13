@@ -390,7 +390,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="w_JlzvRmhurLej1kqBsP-89" value="hGrad_1st = G6 - G4&lt;div&gt;abs_hGrad_1st = abs(hGrad_1st)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;hGrad_2nd_1 = B5 - B3&lt;/div&gt;&lt;div&gt;hGrad_2nd_2 = B5 - B7&lt;/div&gt;&lt;div&gt;hGrad_2nd =&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;hGrad_2nd_1 +&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;hGrad_2nd_2&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;abs_&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;hGrad_2nd = abs(&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;hGrad_2nd&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;hGrad =&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;abs_hGrad_1st +&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;abs_&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;hGrad_2nd&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="730" y="260" width="300" height="160" as="geometry" />
+          <mxGeometry x="750" y="33.31" width="300" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="w_JlzvRmhurLej1kqBsP-90" value="&lt;b&gt;&lt;font color=&quot;#ff0808&quot;&gt;UQ12.0&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="43" y="429" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
