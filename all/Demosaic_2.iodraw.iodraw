@@ -782,6 +782,7 @@
         </mxCell>
         <mxCell id="w_JlzvRmhurLej1kqBsP-220" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="w_JlzvRmhurLej1kqBsP-189" target="w_JlzvRmhurLej1kqBsP-195">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1547" y="800" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1547" y="761" />
               <mxPoint x="1547" y="806" />
