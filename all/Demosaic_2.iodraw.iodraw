@@ -725,6 +725,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="w_JlzvRmhurLej1kqBsP-181" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="w_JlzvRmhurLej1kqBsP-173" target="w_JlzvRmhurLej1kqBsP-179">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="w_JlzvRmhurLej1kqBsP-173" value="vGrad_1st = G8 - G2&lt;b&gt;&lt;font color=&quot;#ff0808&quot;&gt;（s13）&lt;/font&gt;&lt;/b&gt;&lt;div&gt;abs_vGrad_1st = abs(vGrad_1st)&lt;b&gt;&lt;font color=&quot;#ff0808&quot;&gt;（u12）&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;vGrad_2nd_1 = R5 - R1&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;&quot; color=&quot;#ff0808&quot;&gt;&lt;b&gt;（s13）&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;vGrad_2nd_2 = R5 - R9&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#ff0808&quot;&gt;（s13）&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;vGrad_2nd = v&lt;span style=&quot;background-color: initial;&quot;&gt;Grad_2nd_1 + v&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Grad_2nd_2&lt;/span&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#ff0808&quot;&gt;（s14）&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;abs_&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;hGrad_2nd = abs(&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;hGrad_2nd&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#ff0808&quot;&gt;（u13）&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;vGrad&lt;/b&gt; =&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;abs_vGrad_1st +&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;abs_v&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Grad_2nd&lt;/span&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#ff0808&quot;&gt;（u14）&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#ff0808&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;vSum_1st = G8 + G2&lt;b&gt;&lt;font color=&quot;#ff0808&quot;&gt;（u13）&lt;/font&gt;&lt;/b&gt;&lt;div&gt;vSum_1st_x2 = vSum_1st&amp;nbsp; &amp;lt;&amp;lt; 1&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#ff0808&quot;&gt;（u14）&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;vG_x4&lt;/b&gt; = vSum_1st_x2 + vGrad_2nd&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#ff0808&quot;&gt;（s16）&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="831" y="699" width="290" height="200" as="geometry" />
         </mxCell>
@@ -734,8 +737,11 @@
         <mxCell id="w_JlzvRmhurLej1kqBsP-178" value="垂直梯度计算" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
           <mxGeometry x="771.0010436320295" y="798.9996079009446" as="geometry" />
         </mxCell>
+        <mxCell id="w_JlzvRmhurLej1kqBsP-180" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.007;exitY=0.151;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="w_JlzvRmhurLej1kqBsP-172" target="w_JlzvRmhurLej1kqBsP-179">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="w_JlzvRmhurLej1kqBsP-179" value="hGrad &amp;lt; vGrad" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1240" y="100" width="150" height="80" as="geometry" />
+          <mxGeometry x="1230" y="560" width="150" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
