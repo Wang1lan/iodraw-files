@@ -861,7 +861,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="wAJ0qjPAS4wJXTEe_o5Z" name="第 2 页">
-    <mxGraphModel dx="815" dy="423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="1">
+    <mxGraphModel dx="1188" dy="618" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1208,6 +1208,9 @@
         </mxCell>
         <mxCell id="V79Abe15nXoY1JVVlJp9-52" value="Gb" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="406" y="614" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="V79Abe15nXoY1JVVlJp9-53" value="bgDiff_1 = B1 - G1&lt;b&gt;&lt;font color=&quot;#ff0808&quot;&gt;（s13）&lt;/font&gt;&lt;/b&gt;&lt;div&gt;bgDiff_3 = B3 - G3&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#ff0808&quot;&gt;（s13）&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;bgDiff_7 = B7 - G7&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#ff0808&quot;&gt;（s13）&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;bgDiff_9 = B9 - G9&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#ff0808&quot;&gt;（s13）&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;sum_bgDiff_13 = bgDiff_1 + bgDiff_3&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#ff0808&quot;&gt;（s14）&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;sum_bgDiff_79 = bgDiff_7 + bgDiff_9&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#ff0808&quot;&gt;（s14）&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;sum_bgDiff = sum_bgDiff_13 + sum_bgDiff_79&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#ff0808&quot;&gt;（s15）&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;G_x4 = G5 &amp;lt;&amp;lt; 2&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#ff0808&quot;&gt;（u14）&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;B_temp_x4 =&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;sum_bgDiff + G_x4&lt;/span&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#ff0808&quot;&gt;（s16）&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;B_temp&lt;/b&gt; = B_temp_x4 &amp;gt;&amp;gt; 2&lt;/span&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#ff0808&quot;&gt;（s14）&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="680" width="314" height="210" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
