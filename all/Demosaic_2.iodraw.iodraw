@@ -441,9 +441,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="w_JlzvRmhurLej1kqBsP-103" value="vSum_1st = G8 + G2&lt;b&gt;&lt;font color=&quot;#ff0808&quot;&gt;（u13）&lt;/font&gt;&lt;/b&gt;&lt;div&gt;vSum_1st_x2 = vSum_1st&amp;nbsp; &amp;lt;&amp;lt; 1&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#ff0808&quot;&gt;（u14）&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;vG_x4 = vSum_1st_x2 + vGrad_2nd&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#ff0808&quot;&gt;（s16）&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="620" width="286" height="56" as="geometry" />
-        </mxCell>
         <mxCell id="w_JlzvRmhurLej1kqBsP-109" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w_JlzvRmhurLej1kqBsP-105" target="w_JlzvRmhurLej1kqBsP-108">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
