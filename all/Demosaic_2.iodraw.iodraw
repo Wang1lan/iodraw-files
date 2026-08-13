@@ -30,7 +30,7 @@
         <mxCell id="w_JlzvRmhurLej1kqBsP-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w_JlzvRmhurLej1kqBsP-6" target="w_JlzvRmhurLej1kqBsP-55">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="w_JlzvRmhurLej1kqBsP-6" value="pRaw" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="w_JlzvRmhurLej1kqBsP-6" value="pRaw(i+4, j+4)" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="271" y="282" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="w_JlzvRmhurLej1kqBsP-10" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontFamily=Helvetica;" vertex="1" parent="1">
