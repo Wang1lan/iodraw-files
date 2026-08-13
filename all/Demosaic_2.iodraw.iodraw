@@ -16,14 +16,14 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="w_JlzvRmhurLej1kqBsP-2" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;raw(i, j)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="40" y="282" width="120" height="60" as="geometry" />
+          <mxGeometry x="40" y="271" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="w_JlzvRmhurLej1kqBsP-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="w_JlzvRmhurLej1kqBsP-6">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="331" y="242" as="targetPoint" />
+            <mxPoint x="331" y="231" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="331" y="242" />
-              <mxPoint x="332" y="242" />
+              <mxPoint x="331" y="231" />
+              <mxPoint x="332" y="231" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -31,10 +31,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="w_JlzvRmhurLej1kqBsP-6" value="pRaw(i+4, j+4)" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="271" y="282" width="120" height="60" as="geometry" />
+          <mxGeometry x="271" y="271" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="w_JlzvRmhurLej1kqBsP-10" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="231" y="70" width="200" height="174" as="geometry" />
+          <mxGeometry x="231" y="59" width="200" height="174" as="geometry" />
         </mxCell>
         <mxCell id="w_JlzvRmhurLej1kqBsP-11" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Helvetica;" vertex="1" parent="w_JlzvRmhurLej1kqBsP-10">
           <mxGeometry width="200" height="28" as="geometry" />
@@ -235,7 +235,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="w_JlzvRmhurLej1kqBsP-54" value="&lt;h3 style=&quot;font-size: 20px;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot; color=&quot;#ff0808&quot;&gt;BG&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 20px;&quot; color=&quot;#ff0808&quot;&gt;GR&lt;/font&gt;&lt;/span&gt;&lt;/h3&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="66" y="214" width="73" height="61.25" as="geometry" />
+          <mxGeometry x="66" y="203" width="73" height="61.25" as="geometry" />
         </mxCell>
         <mxCell id="w_JlzvRmhurLej1kqBsP-88" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="w_JlzvRmhurLej1kqBsP-55" target="w_JlzvRmhurLej1kqBsP-57">
           <mxGeometry relative="1" as="geometry">
@@ -415,7 +415,7 @@
           <mxGeometry x="831" y="11.000000000000002" width="290" height="156.69" as="geometry" />
         </mxCell>
         <mxCell id="w_JlzvRmhurLej1kqBsP-90" value="&lt;b&gt;&lt;font color=&quot;#ff0808&quot;&gt;u12&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="118" y="322" width="41" height="20" as="geometry" />
+          <mxGeometry x="118" y="311" width="41" height="20" as="geometry" />
         </mxCell>
         <mxCell id="w_JlzvRmhurLej1kqBsP-96" value="hSum_1st = G6 + G4&lt;b&gt;&lt;font color=&quot;#ff0808&quot;&gt;（u13）&lt;/font&gt;&lt;/b&gt;&lt;div&gt;hSum_1st_x2 = hSum_1st&amp;nbsp; &amp;lt;&amp;lt; 1&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#ff0808&quot;&gt;（u14）&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;hG_x4 = hSum_1st_x2 + hGrad_2nd&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#ff0808&quot;&gt;（s16）&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1170" y="61" width="286" height="56" as="geometry" />
