@@ -861,7 +861,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="wAJ0qjPAS4wJXTEe_o5Z" name="第 2 页">
-    <mxGraphModel dx="1358" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="1">
+    <mxGraphModel dx="3012" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1399,7 +1399,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="V79Abe15nXoY1JVVlJp9-112" value="第二阶段：&lt;span style=&quot;background-color: initial;&quot;&gt;计算B、R&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;fontFamily=Helvetica;" vertex="1" parent="1">
+        <mxCell id="V79Abe15nXoY1JVVlJp9-112" value="第三阶段：&lt;span style=&quot;background-color: initial;&quot;&gt;合并G、B、R&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="20" y="970" width="210" height="50" as="geometry" />
         </mxCell>
       </root>
