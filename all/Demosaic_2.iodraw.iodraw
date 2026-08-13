@@ -1342,8 +1342,8 @@
             <mxPoint x="560" y="852.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="V79Abe15nXoY1JVVlJp9-96" value="Gb" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="419" y="684" width="40" height="30" as="geometry" />
+        <mxCell id="V79Abe15nXoY1JVVlJp9-96" value="Gr" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="443" y="873.5" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
