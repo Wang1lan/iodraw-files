@@ -489,7 +489,7 @@
           <mxGeometry x="1475" y="222.34" width="145" height="60" as="geometry" />
         </mxCell>
         <mxCell id="w_JlzvRmhurLej1kqBsP-117" value="hvG_x4 = hG_x4 + cG_x4&amp;nbsp;&lt;b&gt;&lt;font color=&quot;#ff0808&quot;&gt;（u13）&lt;/font&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1190" y="328.66" width="230" height="60" as="geometry" />
+          <mxGeometry x="1190" y="328.66" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="w_JlzvRmhurLej1kqBsP-121" value="&lt;b&gt;&lt;font color=&quot;#ff0808&quot;&gt;s14&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1461" y="96.00000000000001" width="60" height="30" as="geometry" />
