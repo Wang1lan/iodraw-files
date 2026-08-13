@@ -784,18 +784,6 @@
         <mxCell id="w_JlzvRmhurLej1kqBsP-186" value="hGrad &amp;gt; vGrad" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1193" y="651" width="150" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="w_JlzvRmhurLej1kqBsP-221" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="w_JlzvRmhurLej1kqBsP-189" target="w_JlzvRmhurLej1kqBsP-195">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1511" y="824" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="w_JlzvRmhurLej1kqBsP-222" value="clip" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="w_JlzvRmhurLej1kqBsP-221">
-          <mxGeometry x="0.0194" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="w_JlzvRmhurLej1kqBsP-189" value="G_temp = vG_x4 &amp;gt;&amp;gt; 2" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1438" y="661" width="145" height="60" as="geometry" />
         </mxCell>
@@ -809,6 +797,14 @@
         </mxCell>
         <mxCell id="w_JlzvRmhurLej1kqBsP-192" value="hvG_x4 = hG_x4 + vG_x4 &lt;b&gt;&lt;font color=&quot;#ff0808&quot;&gt;（s17）&lt;/font&gt;&lt;/b&gt;&lt;div&gt;G_temp = hvG_x4 &amp;gt;&amp;gt; 3&lt;b&gt;&lt;font color=&quot;#ff0808&quot;&gt;（s14）&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1163" y="797" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RSc_dt2TFxefKU54W-58-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="w_JlzvRmhurLej1kqBsP-195">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1510" y="810" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1506" y="810" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="w_JlzvRmhurLej1kqBsP-195" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;padG(i-2, j-2)&lt;/b&gt; = min(2^12-1, max(0, G_temp))&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1425" y="824" width="323" height="43" as="geometry" />
