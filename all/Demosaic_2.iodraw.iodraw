@@ -1406,7 +1406,7 @@
           <mxGeometry y="1" width="290" height="50" as="geometry" />
         </mxCell>
         <mxCell id="V79Abe15nXoY1JVVlJp9-114" value="" style="group" vertex="1" connectable="0" parent="V79Abe15nXoY1JVVlJp9-134">
-          <mxGeometry x="24" y="74" width="240" height="170" as="geometry" />
+          <mxGeometry x="23" y="74" width="240" height="170" as="geometry" />
         </mxCell>
         <mxCell id="V79Abe15nXoY1JVVlJp9-115" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;" edge="1" parent="V79Abe15nXoY1JVVlJp9-114" source="V79Abe15nXoY1JVVlJp9-117" target="V79Abe15nXoY1JVVlJp9-124">
           <mxGeometry relative="1" as="geometry" />
