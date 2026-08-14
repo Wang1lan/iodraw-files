@@ -1546,6 +1546,9 @@
         <mxCell id="WlEItF9YuV1_rjtXdruT-7" value="R" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="416" y="440" width="30" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="WlEItF9YuV1_rjtXdruT-8" value="B" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="530" y="212" width="30" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
