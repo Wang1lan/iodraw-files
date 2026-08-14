@@ -442,6 +442,10 @@
         <mxCell id="w_JlzvRmhurLej1kqBsP-107" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="w_JlzvRmhurLej1kqBsP-97" target="w_JlzvRmhurLej1kqBsP-105" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1164" y="340" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1120" y="323" />
+              <mxPoint x="1120" y="130" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="w_JlzvRmhurLej1kqBsP-97" value="vGrad_1st = G8 - G2&lt;b&gt;&lt;font color=&quot;#ff0808&quot;&gt;（s13）&lt;/font&gt;&lt;/b&gt;&lt;div&gt;abs_vGrad_1st = abs(vGrad_1st)&lt;b&gt;&lt;font color=&quot;#ff0808&quot;&gt;（u12）&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;vGrad_2nd_1 = B5 - B1&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;&quot; color=&quot;#ff0808&quot;&gt;&lt;b&gt;（s13）&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;vGrad_2nd_2 = B5 - B9&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#ff0808&quot;&gt;（s13）&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;vGrad_2nd = v&lt;span style=&quot;background-color: initial;&quot;&gt;Grad_2nd_1 + v&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Grad_2nd_2&lt;/span&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#ff0808&quot;&gt;（s14）&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;abs_&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;hGrad_2nd = abs(&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;hGrad_2nd&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#ff0808&quot;&gt;（u13）&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;vGrad&lt;/b&gt; =&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;abs_vGrad_1st +&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;abs_v&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Grad_2nd&lt;/span&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#ff0808&quot;&gt;（u14）&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#ff0808&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;vSum_1st = G8 + G2&lt;b&gt;&lt;font color=&quot;#ff0808&quot;&gt;（u13）&lt;/font&gt;&lt;/b&gt;&lt;div&gt;vSum_1st_x2 = vSum_1st&amp;nbsp; &amp;lt;&amp;lt; 1&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#ff0808&quot;&gt;（u14）&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;vG_x4&lt;/b&gt; = vSum_1st_x2 + vGrad_2nd&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#ff0808&quot;&gt;（s16）&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -861,6 +865,9 @@
           <mxGeometry x="0.178" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ROj4HojgvdsoS59ECcZs-1" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1135" y="68" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
