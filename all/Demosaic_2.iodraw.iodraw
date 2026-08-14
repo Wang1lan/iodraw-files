@@ -900,8 +900,8 @@
         <mxCell id="ROj4HojgvdsoS59ECcZs-12" value="vG_x4&lt;font color=&quot;#ff0808&quot;&gt;(s16)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1343" y="651" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yeAExs6ewXhKrUKC6gOy-1" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="75" y="458" width="50" height="30" as="geometry" />
+        <mxCell id="yeAExs6ewXhKrUKC6gOy-1" value="[height, width] = size(raw)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="20" y="458" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
