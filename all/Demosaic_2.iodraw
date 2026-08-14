@@ -867,10 +867,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ROj4HojgvdsoS59ECcZs-1" value="hGrad(u14)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1150" y="40" width="80" height="30" as="geometry" />
+          <mxGeometry x="1108" y="100" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ROj4HojgvdsoS59ECcZs-5" value="vGrad(u14)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="133" width="80" height="30" as="geometry" />
+          <mxGeometry x="1108" y="130" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
