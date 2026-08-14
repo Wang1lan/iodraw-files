@@ -1528,7 +1528,7 @@
         <mxCell id="WlEItF9YuV1_rjtXdruT-1" value="R_temp&lt;font color=&quot;#ff0808&quot;&gt;(s14)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1061" y="156" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WlEItF9YuV1_rjtXdruT-2" value="R_temp&lt;font color=&quot;#ff0808&quot;&gt;(s14)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="WlEItF9YuV1_rjtXdruT-2" value="B_temp&lt;font color=&quot;#ff0808&quot;&gt;(s14)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1061" y="450" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
