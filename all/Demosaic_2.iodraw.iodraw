@@ -1540,6 +1540,9 @@
         <mxCell id="WlEItF9YuV1_rjtXdruT-5" value="B_temp&lt;font color=&quot;#ff0808&quot;&gt;(s14)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1060" y="1005" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="WlEItF9YuV1_rjtXdruT-6" value="R_temp&lt;font color=&quot;#ff0808&quot;&gt;(s14)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1061" y="1165" width="90" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
