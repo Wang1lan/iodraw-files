@@ -190,7 +190,7 @@
         <mxCell id="Xc4_0Jm-e1eL8MQP7M_S-99" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Xc4_0Jm-e1eL8MQP7M_S-84" target="Xc4_0Jm-e1eL8MQP7M_S-98">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Xc4_0Jm-e1eL8MQP7M_S-84" value="GainLut" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Xc4_0Jm-e1eL8MQP7M_S-84" value="GainLut( , )" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="880" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Xc4_0Jm-e1eL8MQP7M_S-89" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
