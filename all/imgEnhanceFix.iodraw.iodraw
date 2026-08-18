@@ -107,7 +107,7 @@
           <mxGeometry x="70" y="30" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Xc4_0Jm-e1eL8MQP7M_S-96" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="420" y="745" width="135" height="65" as="geometry" />
+          <mxGeometry x="420" y="540" width="135" height="65" as="geometry" />
         </mxCell>
         <mxCell id="Xc4_0Jm-e1eL8MQP7M_S-91" value="gainIdx = 1:256" style="whiteSpace=wrap;html=1;" vertex="1" parent="Xc4_0Jm-e1eL8MQP7M_S-96">
           <mxGeometry width="120" height="60" as="geometry" />
@@ -284,6 +284,9 @@
         </mxCell>
         <mxCell id="Xc4_0Jm-e1eL8MQP7M_S-122" value="gain_left8" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="850" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xc4_0Jm-e1eL8MQP7M_S-124" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Xc4_0Jm-e1eL8MQP7M_S-91" target="Xc4_0Jm-e1eL8MQP7M_S-84">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
