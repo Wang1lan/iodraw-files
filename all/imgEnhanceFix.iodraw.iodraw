@@ -188,7 +188,7 @@
           <mxGeometry x="406" y="256" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Xc4_0Jm-e1eL8MQP7M_S-84" value="GainLut" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="240" y="585" width="120" height="60" as="geometry" />
+          <mxGeometry x="900" y="254" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Xc4_0Jm-e1eL8MQP7M_S-86" value="alphaIdx" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="70" y="585" width="120" height="60" as="geometry" />
