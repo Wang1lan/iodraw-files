@@ -214,7 +214,7 @@
         <mxCell id="Xc4_0Jm-e1eL8MQP7M_S-97" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Xc4_0Jm-e1eL8MQP7M_S-91" target="Xc4_0Jm-e1eL8MQP7M_S-84">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Xc4_0Jm-e1eL8MQP7M_S-98" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Xc4_0Jm-e1eL8MQP7M_S-98" value="gain_left8" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="910" y="390" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
