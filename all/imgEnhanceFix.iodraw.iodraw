@@ -33,7 +33,7 @@
         <mxCell id="Xc4_0Jm-e1eL8MQP7M_S-6" value="max_temp = max(R, G)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="360" y="217" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Xc4_0Jm-e1eL8MQP7M_S-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Xc4_0Jm-e1eL8MQP7M_S-7">
+        <mxCell id="Xc4_0Jm-e1eL8MQP7M_S-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.013;entryY=0.133;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Xc4_0Jm-e1eL8MQP7M_S-7" target="Xc4_0Jm-e1eL8MQP7M_S-5">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="280" y="390" as="targetPoint" />
           </mxGeometry>
