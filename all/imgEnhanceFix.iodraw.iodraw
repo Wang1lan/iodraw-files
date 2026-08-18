@@ -91,7 +91,7 @@
         <mxCell id="Xc4_0Jm-e1eL8MQP7M_S-27" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Xc4_0Jm-e1eL8MQP7M_S-26">
           <mxGeometry width="435" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="Xc4_0Jm-e1eL8MQP7M_S-28" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;rowspan=1;colspan=2;" vertex="1" parent="Xc4_0Jm-e1eL8MQP7M_S-27">
+        <mxCell id="Xc4_0Jm-e1eL8MQP7M_S-28" value="定点化参数" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;rowspan=1;colspan=2;" vertex="1" parent="Xc4_0Jm-e1eL8MQP7M_S-27">
           <mxGeometry width="435" height="27" as="geometry">
             <mxRectangle width="218" height="27" as="alternateBounds" />
           </mxGeometry>
