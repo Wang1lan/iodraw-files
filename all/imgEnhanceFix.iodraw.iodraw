@@ -28,9 +28,9 @@
           <mxGeometry x="200" y="300" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Xc4_0Jm-e1eL8MQP7M_S-6" value="max_temp = max(R, G)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="360" y="210" width="150" height="60" as="geometry" />
+          <mxGeometry x="360" y="217" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Xc4_0Jm-e1eL8MQP7M_S-7" value="max_temp = max(R, G)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Xc4_0Jm-e1eL8MQP7M_S-7" value="min_temp = min(R, G)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="360" y="360" width="150" height="60" as="geometry" />
         </mxCell>
       </root>
