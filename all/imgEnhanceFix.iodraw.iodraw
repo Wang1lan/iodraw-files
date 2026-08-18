@@ -104,12 +104,12 @@
         <mxCell id="Xc4_0Jm-e1eL8MQP7M_S-30" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Xc4_0Jm-e1eL8MQP7M_S-26">
           <mxGeometry y="27" width="435" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="Xc4_0Jm-e1eL8MQP7M_S-31" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Xc4_0Jm-e1eL8MQP7M_S-30">
+        <mxCell id="Xc4_0Jm-e1eL8MQP7M_S-31" value="真实值" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Xc4_0Jm-e1eL8MQP7M_S-30">
           <mxGeometry width="218" height="27" as="geometry">
             <mxRectangle width="218" height="27" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Xc4_0Jm-e1eL8MQP7M_S-32" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Xc4_0Jm-e1eL8MQP7M_S-30">
+        <mxCell id="Xc4_0Jm-e1eL8MQP7M_S-32" value="定点值" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Xc4_0Jm-e1eL8MQP7M_S-30">
           <mxGeometry x="218" width="217" height="27" as="geometry">
             <mxRectangle width="217" height="27" as="alternateBounds" />
           </mxGeometry>
