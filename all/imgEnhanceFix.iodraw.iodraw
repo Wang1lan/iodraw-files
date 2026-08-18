@@ -36,7 +36,7 @@
         <mxCell id="Xc4_0Jm-e1eL8MQP7M_S-7" value="min_temp = min(R, G)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="360" y="360" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Xc4_0Jm-e1eL8MQP7M_S-8" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Xc4_0Jm-e1eL8MQP7M_S-8" value="Lmax = max(max_temp, B)" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="605" y="217" width="155" height="60" as="geometry" />
         </mxCell>
       </root>
