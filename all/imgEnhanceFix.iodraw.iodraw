@@ -360,6 +360,10 @@
         <mxCell id="Kt6ZA7ZaW3eHwHyhtVNP-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Kt6ZA7ZaW3eHwHyhtVNP-13">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="697.5" y="630" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="698" y="631" />
+              <mxPoint x="700" y="631" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Kt6ZA7ZaW3eHwHyhtVNP-13" value="gain_left8 = zeros(height, width)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
