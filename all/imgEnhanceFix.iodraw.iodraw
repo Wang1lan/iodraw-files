@@ -102,10 +102,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Xc4_0Jm-e1eL8MQP7M_S-84" value="GainLut(alphaIdx, gainIdx )&lt;div&gt;32×256&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="374" y="635" width="195" height="60" as="geometry" />
+          <mxGeometry x="339" y="635" width="195" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Xc4_0Jm-e1eL8MQP7M_S-89" value="" style="group" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1" connectable="0">
-          <mxGeometry x="204" y="635" width="130" height="60" as="geometry" />
+          <mxGeometry x="169" y="635" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Xc4_0Jm-e1eL8MQP7M_S-86" value="alphaIdx = 22" style="whiteSpace=wrap;html=1;" parent="Xc4_0Jm-e1eL8MQP7M_S-89" vertex="1">
           <mxGeometry width="120" height="60" as="geometry" />
@@ -114,7 +114,7 @@
           <mxGeometry x="73" y="34" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Xc4_0Jm-e1eL8MQP7M_S-96" value="" style="group" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1" connectable="0">
-          <mxGeometry x="420" y="540" width="135" height="65" as="geometry" />
+          <mxGeometry x="385" y="540" width="135" height="65" as="geometry" />
         </mxCell>
         <mxCell id="Xc4_0Jm-e1eL8MQP7M_S-91" value="gainIdx = 1:256" style="whiteSpace=wrap;html=1;" parent="Xc4_0Jm-e1eL8MQP7M_S-96" vertex="1">
           <mxGeometry x="-9" width="120" height="60" as="geometry" />
@@ -293,7 +293,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Xc4_0Jm-e1eL8MQP7M_S-125" value="非线性增益" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="440" y="704" width="80" height="30" as="geometry" />
+          <mxGeometry x="658" y="704" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Xc4_0Jm-e1eL8MQP7M_S-126" value="亮斑区域检测" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="921" y="593" width="100" height="30" as="geometry" />
