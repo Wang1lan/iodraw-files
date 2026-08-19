@@ -301,6 +301,9 @@
         <mxCell id="Xc4_0Jm-e1eL8MQP7M_S-126" value="亮斑区域检测" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="921" y="593" width="100" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Kt6ZA7ZaW3eHwHyhtVNP-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Xc4_0Jm-e1eL8MQP7M_S-127" target="Kt6ZA7ZaW3eHwHyhtVNP-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Xc4_0Jm-e1eL8MQP7M_S-127" value="pixelVal_temp = img(i, j, c) * gain_left8(i, j)" style="whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="340" y="767" width="255" height="67" as="geometry" />
         </mxCell>
@@ -324,6 +327,9 @@
         </mxCell>
         <mxCell id="Kt6ZA7ZaW3eHwHyhtVNP-1" value="pixelVal = pixelVal_temp &amp;gt;&amp;gt; 8" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="367.5" y="880" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Kt6ZA7ZaW3eHwHyhtVNP-3" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot; color=&quot;#ff0808&quot;&gt;u18&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="525" y="910" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
