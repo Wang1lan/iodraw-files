@@ -449,7 +449,7 @@
         <mxCell id="FE1XEhHJz4enzpmOMskJ-159" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FE1XEhHJz4enzpmOMskJ-152" target="FE1XEhHJz4enzpmOMskJ-158">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FE1XEhHJz4enzpmOMskJ-160" value="水平方向膨胀" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FE1XEhHJz4enzpmOMskJ-159">
+        <mxCell id="FE1XEhHJz4enzpmOMskJ-160" value="水平方向复制填充" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FE1XEhHJz4enzpmOMskJ-159">
           <mxGeometry x="-0.1478" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
