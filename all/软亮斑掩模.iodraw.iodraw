@@ -396,8 +396,8 @@
         <mxCell id="FE1XEhHJz4enzpmOMskJ-142" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FE1XEhHJz4enzpmOMskJ-133" target="FE1XEhHJz4enzpmOMskJ-121">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1038" y="720" />
-              <mxPoint x="700" y="720" />
+              <mxPoint x="1038" y="700" />
+              <mxPoint x="700" y="700" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -454,7 +454,7 @@
           <mxGeometry x="664" y="922.5" width="136" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FE1XEhHJz4enzpmOMskJ-155" value="&lt;b&gt;&lt;font color=&quot;#ff0808&quot; style=&quot;font-size: 16px;&quot;&gt;垂直膨胀&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="820" y="669" width="90" height="30" as="geometry" />
+          <mxGeometry x="822.5" y="624" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
