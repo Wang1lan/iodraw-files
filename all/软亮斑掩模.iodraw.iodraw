@@ -266,11 +266,15 @@
           <mxGeometry x="199" y="677" width="193" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FE1XEhHJz4enzpmOMskJ-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.197;entryY=0.02;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="FE1XEhHJz4enzpmOMskJ-80" target="FE1XEhHJz4enzpmOMskJ-91">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="260" y="678" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="FE1XEhHJz4enzpmOMskJ-93" value="tap = 0: 2*dilatedRadius" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FE1XEhHJz4enzpmOMskJ-92">
           <mxGeometry x="-0.1489" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="386" y="16" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FE1XEhHJz4enzpmOMskJ-101" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FE1XEhHJz4enzpmOMskJ-94" target="FE1XEhHJz4enzpmOMskJ-100">
