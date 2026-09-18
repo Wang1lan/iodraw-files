@@ -548,7 +548,7 @@
           <mxGeometry x="20" y="1130" width="136" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FE1XEhHJz4enzpmOMskJ-193" value="（2*convRadius+1）个&lt;br&gt;&lt;div&gt;temp_h对应像素求和&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="324" y="1265" width="150" height="40" as="geometry" />
+          <mxGeometry x="206.5" y="1092" width="150" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
