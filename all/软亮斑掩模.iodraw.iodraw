@@ -961,7 +961,7 @@
           <mxGeometry x="189" y="37" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FE1XEhHJz4enzpmOMskJ-328" value="[1 4 6 4 1]&#39; * [1 4 6 4 1] / 256" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="735" y="568" width="170" height="30" as="geometry" />
+          <mxGeometry x="822.5" y="571" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
