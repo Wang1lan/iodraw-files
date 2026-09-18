@@ -442,8 +442,8 @@
         <mxCell id="FE1XEhHJz4enzpmOMskJ-146" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;2^12 - 1&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="970" y="990" width="136" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="FE1XEhHJz4enzpmOMskJ-152" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;dilatedMask&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="980" y="840" width="136" height="50" as="geometry" />
+        <mxCell id="FE1XEhHJz4enzpmOMskJ-152" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;dilatedMask_u12&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="585" y="965" width="136" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
