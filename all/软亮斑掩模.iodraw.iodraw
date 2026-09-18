@@ -161,7 +161,7 @@
             <mxPoint x="36" y="48" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FE1XEhHJz4enzpmOMskJ-72" value="或运算" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FE1XEhHJz4enzpmOMskJ-47">
+        <mxCell id="FE1XEhHJz4enzpmOMskJ-72" value="二值掩模" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FE1XEhHJz4enzpmOMskJ-47">
           <mxGeometry x="0.6886" y="1" relative="1" as="geometry">
             <mxPoint x="42" y="96" as="offset" />
           </mxGeometry>
