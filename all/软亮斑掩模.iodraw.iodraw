@@ -416,10 +416,9 @@
             <mxPoint y="18" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FE1XEhHJz4enzpmOMskJ-235" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="FE1XEhHJz4enzpmOMskJ-152" target="FE1XEhHJz4enzpmOMskJ-233" edge="1">
+        <mxCell id="FE1XEhHJz4enzpmOMskJ-235" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="FE1XEhHJz4enzpmOMskJ-152" target="FE1XEhHJz4enzpmOMskJ-233" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="812" y="935" />
               <mxPoint x="812" y="900" />
               <mxPoint x="10" y="900" />
               <mxPoint x="10" y="1490" />
