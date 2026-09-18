@@ -409,11 +409,14 @@
         <mxCell id="FE1XEhHJz4enzpmOMskJ-133" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;dilatedMask_h_temp&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="970" y="740" width="136" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="FE1XEhHJz4enzpmOMskJ-144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FE1XEhHJz4enzpmOMskJ-138" target="FE1XEhHJz4enzpmOMskJ-141">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="FE1XEhHJz4enzpmOMskJ-138" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;dilatedMask&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="970" y="830" width="136" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FE1XEhHJz4enzpmOMskJ-141" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;dilatedMask&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="990" width="136" height="50" as="geometry" />
+          <mxGeometry x="479" y="960" width="136" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
