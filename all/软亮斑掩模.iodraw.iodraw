@@ -559,7 +559,7 @@
           <mxGeometry x="212.5" y="1094" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FE1XEhHJz4enzpmOMskJ-194" value="&lt;b&gt;&lt;font color=&quot;#ff0808&quot; style=&quot;font-size: 16px;&quot;&gt;水平方向滤波&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="344" y="1039" width="120" height="30" as="geometry" />
+          <mxGeometry x="344" y="1059" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FE1XEhHJz4enzpmOMskJ-200" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FE1XEhHJz4enzpmOMskJ-195" target="FE1XEhHJz4enzpmOMskJ-198">
           <mxGeometry relative="1" as="geometry" />
@@ -646,6 +646,9 @@
         </mxCell>
         <mxCell id="FE1XEhHJz4enzpmOMskJ-221" value="&lt;b&gt;&lt;font color=&quot;#ff0808&quot; style=&quot;font-size: 16px;&quot;&gt;垂直方向滤波&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="641" y="1240" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FE1XEhHJz4enzpmOMskJ-222" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;.×&lt;/b&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="616" y="1313" width="35" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
