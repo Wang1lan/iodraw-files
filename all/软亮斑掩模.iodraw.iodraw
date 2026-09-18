@@ -464,7 +464,7 @@
           <mxGeometry x="743.5" y="1030" width="136" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FE1XEhHJz4enzpmOMskJ-161" value="&lt;b&gt;&lt;font color=&quot;#ff0808&quot; style=&quot;font-size: 16px;&quot;&gt;阶段3：高斯滤波软化掩模&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="370" y="906.5" width="210" height="30" as="geometry" />
+          <mxGeometry x="370" y="904.5" width="210" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
