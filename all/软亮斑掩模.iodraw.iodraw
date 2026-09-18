@@ -327,6 +327,9 @@
             <mxPoint x="7" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="FE1XEhHJz4enzpmOMskJ-116" value="&lt;b&gt;&lt;font color=&quot;#ff0808&quot; style=&quot;font-size: 16px;&quot;&gt;阶段1：阈值分割&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="401.5" y="340" width="140" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
