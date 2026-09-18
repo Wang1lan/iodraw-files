@@ -955,7 +955,7 @@
           <mxGeometry x="950" y="458" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FE1XEhHJz4enzpmOMskJ-326" value="同样，高斯天然具备可分离性，所以可以利用两个一维矩阵依次卷积，降低运算复杂度" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="570" y="548" width="480" height="30" as="geometry" />
+          <mxGeometry x="725.5" y="540" width="480" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
