@@ -300,14 +300,6 @@
         <mxCell id="FE1XEhHJz4enzpmOMskJ-100" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;dilatedMask_h_temp&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="51" y="830" width="136" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="FE1XEhHJz4enzpmOMskJ-108" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FE1XEhHJz4enzpmOMskJ-104" target="FE1XEhHJz4enzpmOMskJ-107">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="FE1XEhHJz4enzpmOMskJ-109" value="垂直复制填充" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FE1XEhHJz4enzpmOMskJ-108">
-          <mxGeometry x="-0.0769" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="FE1XEhHJz4enzpmOMskJ-104" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;dilatedMask_h&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="283" y="830" width="136" height="50" as="geometry" />
         </mxCell>
@@ -324,7 +316,7 @@
         </mxCell>
         <mxCell id="FE1XEhHJz4enzpmOMskJ-113" value="tap = 0 : 2*dilatedRadius" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FE1XEhHJz4enzpmOMskJ-112">
           <mxGeometry x="-0.1158" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="7" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
