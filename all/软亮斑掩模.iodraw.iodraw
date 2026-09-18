@@ -172,7 +172,7 @@
         <mxCell id="FE1XEhHJz4enzpmOMskJ-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FE1XEhHJz4enzpmOMskJ-37" target="FE1XEhHJz4enzpmOMskJ-80">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FE1XEhHJz4enzpmOMskJ-82" value="水平膨胀" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FE1XEhHJz4enzpmOMskJ-81">
+        <mxCell id="FE1XEhHJz4enzpmOMskJ-82" value="水平复制填充" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FE1XEhHJz4enzpmOMskJ-81">
           <mxGeometry x="-0.0118" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
