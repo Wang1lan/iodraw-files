@@ -627,6 +627,11 @@
         </mxCell>
         <mxCell id="FE1XEhHJz4enzpmOMskJ-218" value="循环结束" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FE1XEhHJz4enzpmOMskJ-217">
           <mxGeometry x="-0.6066" relative="1" as="geometry">
+            <mxPoint x="8" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FE1XEhHJz4enzpmOMskJ-219" value="u20" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FE1XEhHJz4enzpmOMskJ-217">
+          <mxGeometry x="0.3934" y="1" relative="1" as="geometry">
             <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
