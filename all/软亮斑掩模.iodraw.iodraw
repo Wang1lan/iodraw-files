@@ -550,6 +550,9 @@
         <mxCell id="FE1XEhHJz4enzpmOMskJ-193" value="（2*convRadius+1）&lt;div&gt;个&lt;span style=&quot;background-color: initial;&quot;&gt;temp_h矩阵相加&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="212.5" y="1094" width="140" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="FE1XEhHJz4enzpmOMskJ-194" value="&lt;b&gt;&lt;font color=&quot;#ff0808&quot; style=&quot;font-size: 16px;&quot;&gt;水平膨胀&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="174" y="751.5" width="90" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
