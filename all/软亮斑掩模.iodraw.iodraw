@@ -169,6 +169,14 @@
         <mxCell id="FE1XEhHJz4enzpmOMskJ-35" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;mirrorMask(i,j)=1&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="422.5" y="380" width="135" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="FE1XEhHJz4enzpmOMskJ-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FE1XEhHJz4enzpmOMskJ-37" target="FE1XEhHJz4enzpmOMskJ-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FE1XEhHJz4enzpmOMskJ-82" value="水平膨胀" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FE1XEhHJz4enzpmOMskJ-81">
+          <mxGeometry x="-0.0118" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="FE1XEhHJz4enzpmOMskJ-37" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;HardMask&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="561" width="135" height="50" as="geometry" />
         </mxCell>
