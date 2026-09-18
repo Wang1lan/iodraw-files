@@ -644,6 +644,9 @@
         <mxCell id="FE1XEhHJz4enzpmOMskJ-220" value="（2*convRadius+1）&lt;div&gt;个v_&lt;span style=&quot;background-color: initial;&quot;&gt;temp矩阵相加&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="822.5" y="1258.5" width="140" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="FE1XEhHJz4enzpmOMskJ-221" value="&lt;b&gt;&lt;font color=&quot;#ff0808&quot; style=&quot;font-size: 16px;&quot;&gt;水平方向滤波&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="354" y="1049" width="120" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
