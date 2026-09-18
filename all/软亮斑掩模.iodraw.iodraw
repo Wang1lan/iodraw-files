@@ -393,7 +393,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="FE1XEhHJz4enzpmOMskJ-137" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FE1XEhHJz4enzpmOMskJ-136">
+        <mxCell id="FE1XEhHJz4enzpmOMskJ-137" value="更新" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FE1XEhHJz4enzpmOMskJ-136">
           <mxGeometry x="0.0393" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
