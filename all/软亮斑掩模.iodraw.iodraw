@@ -996,9 +996,6 @@
             <mxPoint x="450" y="302.25000000000006" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nqTI17xyLXMkw2sYYds0-1" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;点乘&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="946.5" y="979.5" width="50" height="30" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
