@@ -270,14 +270,6 @@
         <mxCell id="FE1XEhHJz4enzpmOMskJ-146" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;2^12 - 1&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1104" y="876" width="70" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="FE1XEhHJz4enzpmOMskJ-159" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FE1XEhHJz4enzpmOMskJ-152" target="FE1XEhHJz4enzpmOMskJ-158" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="FE1XEhHJz4enzpmOMskJ-160" value="水平方向复制填充" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="FE1XEhHJz4enzpmOMskJ-159" vertex="1" connectable="0">
-          <mxGeometry x="-0.1478" y="1" relative="1" as="geometry">
-            <mxPoint y="2" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="FE1XEhHJz4enzpmOMskJ-152" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;dilatedMask_u12&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="787.5" y="1017.5" width="136" height="50" as="geometry" />
         </mxCell>
@@ -535,16 +527,16 @@
           <mxGeometry x="692" y="1645" width="136" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FE1XEhHJz4enzpmOMskJ-242" value="注：" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
-          <mxGeometry x="750" y="351" width="100" height="40" as="geometry" />
+          <mxGeometry x="750" y="350" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FE1XEhHJz4enzpmOMskJ-243" value="由于膨胀采用全1的方形结构元，故二维结构元可以分解成两个一维矩阵，&lt;div&gt;两个一维结构元依次做膨胀，降低计算复杂度，同时利用或运算执行膨胀，&lt;/div&gt;&lt;div&gt;更加适合FPGA的运算逻辑。本例中膨胀结构元半径为2。故：&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="770.5" y="381" width="420" height="60" as="geometry" />
+          <mxGeometry x="770.5" y="380" width="420" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FE1XEhHJz4enzpmOMskJ-326" value="同样，高斯核天然具备可分离性，所以可以利用两个一维矩阵依次卷积，&lt;span style=&quot;background-color: initial;&quot;&gt;降低&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;运算复杂度。因为软化掩模不需要十分标准的高斯函数，所以这里采用了近似的&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;整数&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;高斯核，适配FPGA&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;的整数运算。一维矩阵的和为16，所以经过两次一维高&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;斯滤波，每个输出被放大了256倍，最后要右移八位进行复原。&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="771" y="551" width="440" height="70" as="geometry" />
+          <mxGeometry x="771" y="550" width="440" height="70" as="geometry" />
         </mxCell>
         <mxCell id="FE1XEhHJz4enzpmOMskJ-327" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="806" y="442" width="369" height="100" as="geometry" />
+          <mxGeometry x="806" y="441" width="369" height="100" as="geometry" />
         </mxCell>
         <mxCell id="FE1XEhHJz4enzpmOMskJ-244" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" parent="FE1XEhHJz4enzpmOMskJ-327" vertex="1">
           <mxGeometry x="229" width="140" height="100" as="geometry" />
@@ -770,10 +762,10 @@
           <mxGeometry x="189" y="37" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FE1XEhHJz4enzpmOMskJ-328" value="[1 4 6 4 1]&#39; * [1 4 6 4 1] / 256" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="875.5" y="616" width="170" height="30" as="geometry" />
+          <mxGeometry x="875.5" y="615" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FE1XEhHJz4enzpmOMskJ-329" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="753" y="346" width="450" height="310" as="geometry" />
+          <mxGeometry x="753" y="345" width="450" height="310" as="geometry" />
         </mxCell>
         <mxCell id="FE1XEhHJz4enzpmOMskJ-330" value="" style="endArrow=none;dashed=1;html=1;strokeWidth=2;rounded=0;strokeColor=#FF0808;fontFamily=Helvetica;" parent="FE1XEhHJz4enzpmOMskJ-329" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
