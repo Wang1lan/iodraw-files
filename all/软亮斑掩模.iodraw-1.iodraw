@@ -264,6 +264,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="72wc9IrWFk93lxlKXm8X-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FE1XEhHJz4enzpmOMskJ-138" target="FE1XEhHJz4enzpmOMskJ-145">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="FE1XEhHJz4enzpmOMskJ-138" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;dilatedMask&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="940" y="889.5" width="136" height="50" as="geometry" />
         </mxCell>
