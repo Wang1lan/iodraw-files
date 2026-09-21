@@ -742,6 +742,9 @@
         <mxCell id="72wc9IrWFk93lxlKXm8X-52" value="或运算" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="822" y="767.5" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="72wc9IrWFk93lxlKXm8X-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="72wc9IrWFk93lxlKXm8X-62" target="72wc9IrWFk93lxlKXm8X-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="72wc9IrWFk93lxlKXm8X-62" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;pad_h_conv&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="586" y="1028.5" width="136" height="50" as="geometry" />
         </mxCell>
