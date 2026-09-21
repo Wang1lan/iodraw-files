@@ -1016,7 +1016,7 @@
           <mxGeometry x="961" y="1338.75" width="136" height="50" as="geometry" />
         </mxCell>
         <mxCell id="72wc9IrWFk93lxlKXm8X-161" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;soft_temp&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="971" y="1348.75" width="136" height="50" as="geometry" />
+          <mxGeometry x="961" y="1443" width="136" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
