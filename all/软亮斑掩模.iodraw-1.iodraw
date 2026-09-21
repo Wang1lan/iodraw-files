@@ -1059,7 +1059,7 @@
           <mxGeometry x="784" y="1536.5" width="136" height="50" as="geometry" />
         </mxCell>
         <mxCell id="72wc9IrWFk93lxlKXm8X-174" value="逐像素做max运算" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="980" y="1588" width="120" height="30" as="geometry" />
+          <mxGeometry x="969" y="1580.5" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
