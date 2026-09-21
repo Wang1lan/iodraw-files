@@ -232,6 +232,9 @@
         <mxCell id="FE1XEhHJz4enzpmOMskJ-76" value="&lt;b&gt;&lt;font color=&quot;#ff0808&quot; style=&quot;font-size: 16px;&quot;&gt;阶段1：阈值分割&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#FF0808;fillColor=none;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="391.5" y="344" width="140" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="72wc9IrWFk93lxlKXm8X-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FE1XEhHJz4enzpmOMskJ-80" target="72wc9IrWFk93lxlKXm8X-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="FE1XEhHJz4enzpmOMskJ-80" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;pad_h&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="194.5" y="575" width="75" height="50" as="geometry" />
         </mxCell>
