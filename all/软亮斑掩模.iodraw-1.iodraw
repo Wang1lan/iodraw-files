@@ -311,7 +311,7 @@
           <mxGeometry x="481" y="740" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FE1XEhHJz4enzpmOMskJ-161" value="&lt;b&gt;&lt;font color=&quot;#ff0808&quot; style=&quot;font-size: 16px;&quot;&gt;阶段3：高斯滤波软化掩模&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#FF0808;fillColor=none;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="21" y="880" width="210" height="30" as="geometry" />
+          <mxGeometry x="617" y="1122.75" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FE1XEhHJz4enzpmOMskJ-194" value="&lt;b&gt;&lt;font color=&quot;#ff0808&quot; style=&quot;font-size: 16px;&quot;&gt;水平方向滤波&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="50" y="979.75" width="120" height="30" as="geometry" />
