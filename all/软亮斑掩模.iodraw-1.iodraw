@@ -1019,7 +1019,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="72wc9IrWFk93lxlKXm8X-145" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;sum_h&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="72wc9IrWFk93lxlKXm8X-145" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;sum_v&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="681" y="1339" width="136" height="50" as="geometry" />
         </mxCell>
         <mxCell id="72wc9IrWFk93lxlKXm8X-159" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="72wc9IrWFk93lxlKXm8X-148" target="72wc9IrWFk93lxlKXm8X-158">
