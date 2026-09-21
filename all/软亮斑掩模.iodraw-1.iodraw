@@ -982,7 +982,7 @@
           <mxGeometry x="840.5" y="797.5" width="35" height="35" as="geometry" />
         </mxCell>
         <mxCell id="72wc9IrWFk93lxlKXm8X-52" value="或运算" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="139" y="777.5" width="60" height="30" as="geometry" />
+          <mxGeometry x="828" y="766.5" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
