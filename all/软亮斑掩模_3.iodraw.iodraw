@@ -819,7 +819,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="tWRsVwRvUghYapvT9xmJ-556" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;p=dilatedMask_u12(row, c)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="tWRsVwRvUghYapvT9xmJ-556" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;p=sum_h(r, col)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="836" y="1550" width="204" height="50" as="geometry" />
         </mxCell>
       </root>
