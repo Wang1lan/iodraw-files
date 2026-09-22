@@ -293,7 +293,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="tWRsVwRvUghYapvT9xmJ-329" value="&lt;font color=&quot;#ff0808&quot; style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Te = [3645, 3726, 3792, 3890]，默认3792&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="110.99999999999997" y="225.99999999999994" width="300" height="30" as="geometry" />
+          <mxGeometry x="441" y="19.999999999999943" width="300" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
