@@ -681,8 +681,8 @@
         <mxCell id="tWRsVwRvUghYapvT9xmJ-459" value="outcol=1:width" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="147" y="1405" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tWRsVwRvUghYapvT9xmJ-460" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="375" y="1338" width="50" height="30" as="geometry" />
+        <mxCell id="tWRsVwRvUghYapvT9xmJ-460" value="水平卷积，设定1×5窗口" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="325" y="1338" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
