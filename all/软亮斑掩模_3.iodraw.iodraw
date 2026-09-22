@@ -121,8 +121,8 @@
         <mxCell id="tWRsVwRvUghYapvT9xmJ-81" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;得到二值掩模hardMask&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="tWRsVwRvUghYapvT9xmJ-72">
           <mxGeometry x="239" y="195" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tWRsVwRvUghYapvT9xmJ-83" value="Te = []" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="150" y="248" width="60" height="30" as="geometry" />
+        <mxCell id="tWRsVwRvUghYapvT9xmJ-83" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Te = [3645, 3726, 3792, 3890]&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="tWRsVwRvUghYapvT9xmJ-72">
+          <mxGeometry x="30" y="240" width="240" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
