@@ -812,7 +812,7 @@
           <mxGeometry x="826" y="1327" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="tWRsVwRvUghYapvT9xmJ-521" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;sum_h(row, outcol)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="836" y="1337" width="150" height="50" as="geometry" />
+          <mxGeometry x="826" y="1407" width="150" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
