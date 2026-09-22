@@ -527,8 +527,8 @@
             <mxPoint x="440" y="109.19999999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tWRsVwRvUghYapvT9xmJ-451" value="" style="group" vertex="1" connectable="0" parent="tWRsVwRvUghYapvT9xmJ-532">
-          <mxGeometry x="624" y="609" width="390" height="170" as="geometry" />
+        <mxCell id="tWRsVwRvUghYapvT9xmJ-451" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="770" y="1510" width="390" height="170" as="geometry" />
         </mxCell>
         <mxCell id="tWRsVwRvUghYapvT9xmJ-363" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;高斯滤波采用近似的整数卷积核，并且核元素均为2的整数倍，&lt;/font&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;与权重相乘，可直接进行移位操作。因为&lt;b&gt;&lt;font color=&quot;#ff0808&quot;&gt;整数核会将每个输入&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;font color=&quot;#ff0808&quot; style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;放大256倍，所以进行输出前，需要右移八位进行复原。&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="tWRsVwRvUghYapvT9xmJ-451">
           <mxGeometry x="10" y="-2" width="380" height="60" as="geometry" />
