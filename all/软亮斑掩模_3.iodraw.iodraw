@@ -700,8 +700,8 @@
         <mxCell id="tWRsVwRvUghYapvT9xmJ-462" value="p为窗口内1×5的元素" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="683" y="1430" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tWRsVwRvUghYapvT9xmJ-474" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="900" y="1280" width="120" height="60" as="geometry" />
+        <mxCell id="tWRsVwRvUghYapvT9xmJ-475" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;2^12 - 1&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="322" y="904" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
