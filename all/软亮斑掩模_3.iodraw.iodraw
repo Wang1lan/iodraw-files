@@ -189,7 +189,7 @@
           <mxGeometry x="741" y="719" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="tWRsVwRvUghYapvT9xmJ-227" value="当outCol = 1时，窗口c = [1, 1, 1, 2, 3]&lt;div&gt;即此处发生越界，则将原来的第一列进行&lt;/div&gt;&lt;div style=&quot;&quot;&gt;复制，变成新的第一列和第二列。&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="391" y="430" width="240" height="60" as="geometry" />
+          <mxGeometry x="378" y="430" width="240" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
