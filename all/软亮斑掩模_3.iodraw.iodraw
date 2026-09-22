@@ -158,11 +158,6 @@
         <mxCell id="tWRsVwRvUghYapvT9xmJ-233" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tWRsVwRvUghYapvT9xmJ-222" target="tWRsVwRvUghYapvT9xmJ-232">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tWRsVwRvUghYapvT9xmJ-234" value="u1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tWRsVwRvUghYapvT9xmJ-233">
-          <mxGeometry x="-0.1765" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="tWRsVwRvUghYapvT9xmJ-468" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tWRsVwRvUghYapvT9xmJ-222" target="tWRsVwRvUghYapvT9xmJ-237">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
