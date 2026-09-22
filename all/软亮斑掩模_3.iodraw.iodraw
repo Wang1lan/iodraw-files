@@ -380,7 +380,7 @@
           <mxGeometry x="716.5" y="530" width="179" height="50" as="geometry" />
         </mxCell>
         <mxCell id="tWRsVwRvUghYapvT9xmJ-215" value="窗口内五个像素值取或运算" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="845" y="538" width="170" height="30" as="geometry" />
+          <mxGeometry x="901" y="540" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
