@@ -397,8 +397,8 @@
         <mxCell id="tWRsVwRvUghYapvT9xmJ-206" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;c = min(width, max(1, (outCol-2) : (outCol+2)))&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="631" y="435" width="350" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="tWRsVwRvUghYapvT9xmJ-208" value="水平膨胀&lt;div&gt;设定1×5的窗口&lt;/div&gt;&lt;div&gt;越界则进行复制边界&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="975" y="430" width="130" height="60" as="geometry" />
+        <mxCell id="tWRsVwRvUghYapvT9xmJ-208" value="水平膨胀&lt;div&gt;&lt;b&gt;&lt;font color=&quot;#ff0808&quot;&gt;设定1×5的窗口&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;越界则进行复制边界&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="990" y="430" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tWRsVwRvUghYapvT9xmJ-213" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;hardMask&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="741" y="530" width="130" height="50" as="geometry" />
