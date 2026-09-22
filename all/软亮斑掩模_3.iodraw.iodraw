@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36 Edg/153.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="FoG8NGoiGM_SRIFO78_Q">
-    <mxGraphModel dx="2357" dy="618" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1188" dy="618" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -995,12 +995,12 @@
           <mxGeometry x="437.5" y="1757.5" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tWRsVwRvUghYapvT9xmJ-617" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry y="1180" width="1250" height="730" as="geometry" />
+          <mxGeometry x="30" y="1180" width="1220" height="730" as="geometry" />
         </mxCell>
         <mxCell id="tWRsVwRvUghYapvT9xmJ-618" value="" style="endArrow=none;dashed=1;html=1;strokeWidth=2;rounded=0;strokeColor=#00CC66;fontFamily=Helvetica;" edge="1" parent="tWRsVwRvUghYapvT9xmJ-617">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint as="sourcePoint" />
-            <mxPoint x="1250" as="targetPoint" />
+            <mxPoint x="1220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tWRsVwRvUghYapvT9xmJ-619" value="" style="endArrow=none;dashed=1;html=1;strokeWidth=2;rounded=0;strokeColor=#00CC66;fontFamily=Helvetica;" edge="1" parent="tWRsVwRvUghYapvT9xmJ-617">
@@ -1011,18 +1011,18 @@
         </mxCell>
         <mxCell id="tWRsVwRvUghYapvT9xmJ-620" value="" style="endArrow=none;dashed=1;html=1;strokeWidth=2;rounded=0;strokeColor=#00CC66;fontFamily=Helvetica;" edge="1" parent="tWRsVwRvUghYapvT9xmJ-617">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1250" y="710" as="sourcePoint" />
-            <mxPoint x="1250" as="targetPoint" />
+            <mxPoint x="1220" y="710" as="sourcePoint" />
+            <mxPoint x="1220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tWRsVwRvUghYapvT9xmJ-621" value="" style="endArrow=none;dashed=1;html=1;strokeWidth=2;rounded=0;strokeColor=#00CC66;fontFamily=Helvetica;" edge="1" parent="tWRsVwRvUghYapvT9xmJ-617">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="7.8125" y="711.75" as="sourcePoint" />
-            <mxPoint x="1250" y="711.75" as="targetPoint" />
+            <mxPoint x="7.625" y="711.75" as="sourcePoint" />
+            <mxPoint x="1220" y="711.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tWRsVwRvUghYapvT9xmJ-622" value="&lt;font color=&quot;#ff0808&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;第三阶段：水平和垂直高斯滤波，半径为2&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="tWRsVwRvUghYapvT9xmJ-617">
-          <mxGeometry x="180" y="30" width="320" height="30" as="geometry" />
+          <mxGeometry x="175.68" y="30" width="320" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
