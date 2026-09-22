@@ -388,8 +388,8 @@
         <mxCell id="tWRsVwRvUghYapvT9xmJ-216" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;dilatedMask(row, outCol)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="701.5" y="620" width="209" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="tWRsVwRvUghYapvT9xmJ-218" value="false(height, width)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="941" y="630" width="120" height="30" as="geometry" />
+        <mxCell id="tWRsVwRvUghYapvT9xmJ-218" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;false(height, width)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="926" y="630" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
