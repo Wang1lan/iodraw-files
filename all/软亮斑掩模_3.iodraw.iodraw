@@ -118,6 +118,9 @@
         <mxCell id="tWRsVwRvUghYapvT9xmJ-79" value="阶段1：阈值分割" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="tWRsVwRvUghYapvT9xmJ-72">
           <mxGeometry x="50" y="190" width="200" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="tWRsVwRvUghYapvT9xmJ-81" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="235" y="258" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
