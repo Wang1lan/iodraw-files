@@ -101,7 +101,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="tWRsVwRvUghYapvT9xmJ-538" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tWRsVwRvUghYapvT9xmJ-537">
+        <mxCell id="tWRsVwRvUghYapvT9xmJ-538" value="u1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tWRsVwRvUghYapvT9xmJ-537">
           <mxGeometry x="0.8502" y="-1" relative="1" as="geometry">
             <mxPoint x="1" as="offset" />
           </mxGeometry>
@@ -290,7 +290,7 @@
             <mxPoint x="980.0000000000001" y="360.74999999999994" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tWRsVwRvUghYapvT9xmJ-335" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;第一阶段：阈值分割，得到二值掩模&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="tWRsVwRvUghYapvT9xmJ-330">
+        <mxCell id="tWRsVwRvUghYapvT9xmJ-335" value="&lt;font color=&quot;#ff0808&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;第一阶段：阈值分割，得到二值掩模&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="tWRsVwRvUghYapvT9xmJ-330">
           <mxGeometry x="130" y="205.55555555555554" width="280" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tWRsVwRvUghYapvT9xmJ-329" value="&lt;font color=&quot;#ff0808&quot; style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Te = [3645, 3726, 3792, 3890]，默认3792&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="tWRsVwRvUghYapvT9xmJ-330">
