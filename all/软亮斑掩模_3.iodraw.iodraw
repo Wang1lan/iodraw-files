@@ -974,30 +974,14 @@
         <mxCell id="tWRsVwRvUghYapvT9xmJ-601" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;soft_temp&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="54" y="1780" width="150" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="tWRsVwRvUghYapvT9xmJ-609" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tWRsVwRvUghYapvT9xmJ-605" target="tWRsVwRvUghYapvT9xmJ-608">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="tWRsVwRvUghYapvT9xmJ-610" value="u12" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tWRsVwRvUghYapvT9xmJ-609">
-          <mxGeometry x="-0.0595" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="tWRsVwRvUghYapvT9xmJ-605" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;softMask_temp&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="274" y="1780" width="150" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="tWRsVwRvUghYapvT9xmJ-614" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tWRsVwRvUghYapvT9xmJ-608" target="tWRsVwRvUghYapvT9xmJ-613">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="tWRsVwRvUghYapvT9xmJ-615" value="u12" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tWRsVwRvUghYapvT9xmJ-614">
-          <mxGeometry x="-0.1091" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
+          <mxGeometry x="54" y="1940" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="tWRsVwRvUghYapvT9xmJ-608" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;max&lt;/b&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="480" y="1787.5" width="35" height="35" as="geometry" />
         </mxCell>
         <mxCell id="tWRsVwRvUghYapvT9xmJ-613" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;softMask&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="1780" width="150" height="50" as="geometry" />
+          <mxGeometry x="182" y="2040" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="tWRsVwRvUghYapvT9xmJ-616" value="逐像素做max运算" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="437.5" y="1757.5" width="120" height="30" as="geometry" />
