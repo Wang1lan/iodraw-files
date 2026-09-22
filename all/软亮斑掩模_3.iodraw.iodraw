@@ -657,11 +657,12 @@
         <mxCell id="tWRsVwRvUghYapvT9xmJ-457" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tWRsVwRvUghYapvT9xmJ-453" target="tWRsVwRvUghYapvT9xmJ-456">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tWRsVwRvUghYapvT9xmJ-472" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.103;entryY=-0.02;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" source="tWRsVwRvUghYapvT9xmJ-453" target="tWRsVwRvUghYapvT9xmJ-461">
+        <mxCell id="tWRsVwRvUghYapvT9xmJ-472" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="tWRsVwRvUghYapvT9xmJ-453" target="tWRsVwRvUghYapvT9xmJ-461">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="85" y="1350" />
               <mxPoint x="667" y="1350" />
+              <mxPoint x="667" y="1380" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -715,7 +716,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tWRsVwRvUghYapvT9xmJ-461" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;p=dilatedMask_u12(row, c)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="636" y="1380" width="204" height="50" as="geometry" />
+          <mxGeometry x="621" y="1380" width="204" height="50" as="geometry" />
         </mxCell>
         <mxCell id="tWRsVwRvUghYapvT9xmJ-462" value="p为窗口内1×5的元素" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="683" y="1430" width="130" height="30" as="geometry" />
