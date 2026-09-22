@@ -29,14 +29,11 @@
         <mxCell id="tWRsVwRvUghYapvT9xmJ-41" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;max(R,G,B)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="106" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="tWRsVwRvUghYapvT9xmJ-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tWRsVwRvUghYapvT9xmJ-44" target="tWRsVwRvUghYapvT9xmJ-47">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="tWRsVwRvUghYapvT9xmJ-44" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;maxRGB(i, j)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="106" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="tWRsVwRvUghYapvT9xmJ-47" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="590" y="221" width="80" height="80" as="geometry" />
+        <mxCell id="tWRsVwRvUghYapvT9xmJ-49" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="300" width="160" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
