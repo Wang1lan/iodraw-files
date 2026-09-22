@@ -536,7 +536,7 @@
           <mxGeometry x="84" y="39" width="320" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tWRsVwRvUghYapvT9xmJ-328" value="" style="group" vertex="1" connectable="0" parent="tWRsVwRvUghYapvT9xmJ-532">
-          <mxGeometry x="17" y="240" width="480.5" height="112" as="geometry" />
+          <mxGeometry x="8" y="248" width="480.5" height="112" as="geometry" />
         </mxCell>
         <mxCell id="tWRsVwRvUghYapvT9xmJ-263" value="注：" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="tWRsVwRvUghYapvT9xmJ-328">
           <mxGeometry y="2" width="100" height="40" as="geometry" />
