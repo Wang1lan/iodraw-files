@@ -317,7 +317,7 @@
           <mxGeometry x="130" y="205.55555555555554" width="280" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tWRsVwRvUghYapvT9xmJ-329" value="&lt;font color=&quot;#ff0808&quot; style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Te = [3645, 3726, 3792, 3890]，默认3792&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="tWRsVwRvUghYapvT9xmJ-330">
-          <mxGeometry x="130" y="256.94444444444434" width="300" height="30" as="geometry" />
+          <mxGeometry x="130" y="250.94444444444434" width="300" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tWRsVwRvUghYapvT9xmJ-336" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;第二阶段：水平和垂直膨胀，膨胀半径为2&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="150" y="635" width="320" height="30" as="geometry" />
