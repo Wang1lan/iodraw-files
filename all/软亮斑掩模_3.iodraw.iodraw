@@ -682,10 +682,10 @@
           <mxGeometry x="347" y="1430" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tWRsVwRvUghYapvT9xmJ-461" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;p=dilatedMask_u12(row, c)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="666" y="1380" width="204" height="50" as="geometry" />
+          <mxGeometry x="665" y="1380" width="204" height="50" as="geometry" />
         </mxCell>
         <mxCell id="tWRsVwRvUghYapvT9xmJ-462" value="p为窗口内1×5的元素" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="703" y="1430" width="130" height="30" as="geometry" />
+          <mxGeometry x="702" y="1430" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tWRsVwRvUghYapvT9xmJ-470" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.466;entryY=-0.06;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="tWRsVwRvUghYapvT9xmJ-453" target="tWRsVwRvUghYapvT9xmJ-461">
           <mxGeometry relative="1" as="geometry">
