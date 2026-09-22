@@ -827,7 +827,7 @@
         <mxCell id="tWRsVwRvUghYapvT9xmJ-556" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;p=sum_h(r, col)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="836" y="1580" width="204" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="tWRsVwRvUghYapvT9xmJ-560" value="p为窗口内1×5的元素" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="tWRsVwRvUghYapvT9xmJ-560" value="p为窗口内5×1的元素" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="876.5" y="1630" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
