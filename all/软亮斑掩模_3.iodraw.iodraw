@@ -239,7 +239,7 @@
           <mxGeometry x="136.5" y="951" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="tWRsVwRvUghYapvT9xmJ-251" value="窗口内五个像素&lt;div&gt;值取或运算&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="399" y="770" width="110" height="40" as="geometry" />
+          <mxGeometry x="350" y="787" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tWRsVwRvUghYapvT9xmJ-258" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tWRsVwRvUghYapvT9xmJ-252" target="tWRsVwRvUghYapvT9xmJ-253">
           <mxGeometry relative="1" as="geometry" />
