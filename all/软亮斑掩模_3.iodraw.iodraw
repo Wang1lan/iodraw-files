@@ -345,7 +345,7 @@
         </mxCell>
         <mxCell id="tWRsVwRvUghYapvT9xmJ-340" value="" style="endArrow=none;dashed=1;html=1;strokeWidth=1;rounded=0;strokeColor=#FF0808;fontFamily=Helvetica;" edge="1" parent="tWRsVwRvUghYapvT9xmJ-337">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1024.0000000000002" y="555.75" as="sourcePoint" />
+            <mxPoint x="1024" y="565" as="sourcePoint" />
             <mxPoint x="1024.0000000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
