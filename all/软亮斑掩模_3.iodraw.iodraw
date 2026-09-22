@@ -411,7 +411,7 @@
           <mxGeometry x="120" y="1120" width="380" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tWRsVwRvUghYapvT9xmJ-394" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="410" y="1340" width="369" height="100" as="geometry" />
+          <mxGeometry x="120" y="1170" width="369" height="100" as="geometry" />
         </mxCell>
         <mxCell id="tWRsVwRvUghYapvT9xmJ-395" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="tWRsVwRvUghYapvT9xmJ-394">
           <mxGeometry x="229" width="140" height="100" as="geometry" />
