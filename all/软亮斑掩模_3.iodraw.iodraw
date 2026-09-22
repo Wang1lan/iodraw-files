@@ -407,8 +407,8 @@
         <mxCell id="tWRsVwRvUghYapvT9xmJ-360" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;softMask&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="876.5" y="1050" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="tWRsVwRvUghYapvT9xmJ-363" value="高斯滤波采用近似的整数卷积核：" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="140" y="1148" width="200" height="30" as="geometry" />
+        <mxCell id="tWRsVwRvUghYapvT9xmJ-363" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;高斯滤波采用近似的整数卷积核，并且核元素均为2的整数倍，&lt;/font&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;与权重相乘，可直接进行移位操作：&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="35" y="1138" width="410" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
