@@ -367,6 +367,9 @@
         <mxCell id="tWRsVwRvUghYapvT9xmJ-204" value="outcol=1:width" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="825" y="390" width="100" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="tWRsVwRvUghYapvT9xmJ-214" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tWRsVwRvUghYapvT9xmJ-206" target="tWRsVwRvUghYapvT9xmJ-213">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="tWRsVwRvUghYapvT9xmJ-206" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;c = min(width, max(1, (outCol-2) : (outCol+2)))&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="631" y="435" width="350" height="50" as="geometry" />
         </mxCell>
@@ -375,6 +378,9 @@
         </mxCell>
         <mxCell id="tWRsVwRvUghYapvT9xmJ-213" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;any(hardMask(row, c))&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="716.5" y="530" width="179" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="tWRsVwRvUghYapvT9xmJ-215" value="窗口内五个像素值取或运算" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="845" y="538" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
