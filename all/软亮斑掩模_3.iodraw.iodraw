@@ -202,7 +202,7 @@
         <mxCell id="tWRsVwRvUghYapvT9xmJ-227" value="当outCol = 1时，窗口c = [1, 1, 1, 2, 3]&lt;div&gt;即此处发生越界，则将原来的第一列进行&lt;/div&gt;&lt;div style=&quot;&quot;&gt;复制，变成新的第一列和第二列。&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="345" y="430" width="240" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tWRsVwRvUghYapvT9xmJ-232" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;c = min(width, max(1, (outCol-2) : (outCol+2)))&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="tWRsVwRvUghYapvT9xmJ-232" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;c = min(width, max(1, (outCol-2) : (outRow+2)))&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="631" y="820" width="350" height="50" as="geometry" />
         </mxCell>
         <mxCell id="tWRsVwRvUghYapvT9xmJ-235" value="col=1:width" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
