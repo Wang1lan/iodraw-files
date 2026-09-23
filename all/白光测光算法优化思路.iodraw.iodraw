@@ -50,7 +50,7 @@
         </mxCell>
         <mxCell id="5unYVMk5U6g7rCgUGhqW-31" value="面积占比&lt;br&gt;75%" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5unYVMk5U6g7rCgUGhqW-29">
           <mxGeometry x="0.9208" relative="1" as="geometry">
-            <mxPoint x="-1" as="offset" />
+            <mxPoint x="-6" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5unYVMk5U6g7rCgUGhqW-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="5unYVMk5U6g7rCgUGhqW-9" target="5unYVMk5U6g7rCgUGhqW-28">
@@ -99,7 +99,7 @@
         </mxCell>
         <mxCell id="5unYVMk5U6g7rCgUGhqW-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5unYVMk5U6g7rCgUGhqW-18">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1240" y="340" as="targetPoint" />
+            <mxPoint x="270" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5unYVMk5U6g7rCgUGhqW-18" value="每个block的&lt;div&gt;高光可靠性Ri&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
