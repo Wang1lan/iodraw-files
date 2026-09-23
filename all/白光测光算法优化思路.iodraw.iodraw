@@ -92,8 +92,8 @@
         <mxCell id="5unYVMk5U6g7rCgUGhqW-26" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;阶段一：图像预处理&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="5unYVMk5U6g7rCgUGhqW-21">
           <mxGeometry x="40" y="30" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5unYVMk5U6g7rCgUGhqW-27" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;加权亮度图 Y&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="283" y="135" width="120" height="60" as="geometry" />
+        <mxCell id="5unYVMk5U6g7rCgUGhqW-27" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;有效中心视场&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="370" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
