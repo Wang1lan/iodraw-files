@@ -153,8 +153,14 @@
         <mxCell id="5unYVMk5U6g7rCgUGhqW-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.025;entryY=0.65;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="5unYVMk5U6g7rCgUGhqW-33" target="5unYVMk5U6g7rCgUGhqW-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="5unYVMk5U6g7rCgUGhqW-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5unYVMk5U6g7rCgUGhqW-36" target="5unYVMk5U6g7rCgUGhqW-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="5unYVMk5U6g7rCgUGhqW-36" value="中心视场亮度&lt;div&gt;Lc&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="450" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5unYVMk5U6g7rCgUGhqW-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5unYVMk5U6g7rCgUGhqW-38" target="5unYVMk5U6g7rCgUGhqW-51">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5unYVMk5U6g7rCgUGhqW-38" value="边缘视场亮度&lt;br&gt;Lp" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="450" y="490" width="120" height="60" as="geometry" />
