@@ -120,8 +120,8 @@
         <mxCell id="5unYVMk5U6g7rCgUGhqW-26" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;阶段一：图像预处理&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="5unYVMk5U6g7rCgUGhqW-21">
           <mxGeometry x="40" y="30" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5unYVMk5U6g7rCgUGhqW-33" value="直径1440像素的&lt;div&gt;画面中心部分&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="5unYVMk5U6g7rCgUGhqW-21">
-          <mxGeometry x="325" y="35" width="110" height="40" as="geometry" />
+        <mxCell id="5unYVMk5U6g7rCgUGhqW-33" value="直径1440像素的&lt;div&gt;画面中心部分，&lt;/div&gt;&lt;div&gt;故有效视场并非&lt;/div&gt;&lt;div&gt;完整圆形区域&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="5unYVMk5U6g7rCgUGhqW-21">
+          <mxGeometry x="325" y="20" width="110" height="70" as="geometry" />
         </mxCell>
         <mxCell id="5unYVMk5U6g7rCgUGhqW-35" value="1080×1920" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="5unYVMk5U6g7rCgUGhqW-21">
           <mxGeometry x="40" y="88" width="80" height="30" as="geometry" />
