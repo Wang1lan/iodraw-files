@@ -142,10 +142,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5unYVMk5U6g7rCgUGhqW-36" value="中心视场亮度&lt;div&gt;Lc&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="330" y="370" width="120" height="60" as="geometry" />
+          <mxGeometry x="393" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5unYVMk5U6g7rCgUGhqW-38" value="边缘视场亮度&lt;br&gt;Lp" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="330" y="490" width="120" height="60" as="geometry" />
+          <mxGeometry x="393" y="490" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
