@@ -314,12 +314,12 @@
           <mxGeometry x="880" y="660" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5unYVMk5U6g7rCgUGhqW-86" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry y="630" width="510" height="120" as="geometry" />
+          <mxGeometry x="585" y="620" width="545" height="120" as="geometry" />
         </mxCell>
         <mxCell id="5unYVMk5U6g7rCgUGhqW-87" value="" style="endArrow=none;dashed=1;html=1;strokeWidth=2;rounded=0;strokeColor=#FF0808;fontFamily=Helvetica;" edge="1" parent="5unYVMk5U6g7rCgUGhqW-86">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint as="sourcePoint" />
-            <mxPoint x="510" as="targetPoint" />
+            <mxPoint x="545" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5unYVMk5U6g7rCgUGhqW-88" value="" style="endArrow=none;dashed=1;html=1;strokeWidth=2;rounded=0;strokeColor=#FF0808;fontFamily=Helvetica;" edge="1" parent="5unYVMk5U6g7rCgUGhqW-86">
@@ -330,18 +330,18 @@
         </mxCell>
         <mxCell id="5unYVMk5U6g7rCgUGhqW-89" value="" style="endArrow=none;dashed=1;html=1;strokeWidth=2;rounded=0;strokeColor=#FF0808;fontFamily=Helvetica;" edge="1" parent="5unYVMk5U6g7rCgUGhqW-86">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="510" y="114" as="sourcePoint" />
-            <mxPoint x="510" as="targetPoint" />
+            <mxPoint x="545" y="114" as="sourcePoint" />
+            <mxPoint x="545" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5unYVMk5U6g7rCgUGhqW-90" value="" style="endArrow=none;dashed=1;html=1;strokeWidth=2;rounded=0;strokeColor=#FF0808;fontFamily=Helvetica;" edge="1" parent="5unYVMk5U6g7rCgUGhqW-86">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3.1875" y="117" as="sourcePoint" />
-            <mxPoint x="510" y="117" as="targetPoint" />
+            <mxPoint x="3.40625" y="117" as="sourcePoint" />
+            <mxPoint x="545" y="117" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5unYVMk5U6g7rCgUGhqW-91" value="&lt;font color=&quot;#ff0808&quot; style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;第三阶段：峰值测光&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="5unYVMk5U6g7rCgUGhqW-86">
-          <mxGeometry x="37.09090909090909" y="1" width="160" height="30" as="geometry" />
+          <mxGeometry x="344.99636363636364" y="10" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
