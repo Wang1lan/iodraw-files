@@ -74,8 +74,8 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="270" y="400" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="973" y="65" />
-              <mxPoint x="973" y="340" />
+              <mxPoint x="1340" y="65" />
+              <mxPoint x="1340" y="340" />
               <mxPoint x="270" y="340" />
             </Array>
           </mxGeometry>
@@ -96,6 +96,11 @@
         </mxCell>
         <mxCell id="5unYVMk5U6g7rCgUGhqW-17" value="高光可靠度查找表&lt;div&gt;Hi → Ri&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1039" y="133" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5unYVMk5U6g7rCgUGhqW-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5unYVMk5U6g7rCgUGhqW-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1240" y="340" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="5unYVMk5U6g7rCgUGhqW-18" value="每个block的&lt;div&gt;高光可靠性Ri&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1180" y="198" width="120" height="60" as="geometry" />
