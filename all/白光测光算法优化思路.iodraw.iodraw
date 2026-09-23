@@ -307,11 +307,41 @@
         <mxCell id="5unYVMk5U6g7rCgUGhqW-79" value="Mf = Mr + λ * max(0, Mp - Mr&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="601" y="660" width="220" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5unYVMk5U6g7rCgUGhqW-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5unYVMk5U6g7rCgUGhqW-84" target="5unYVMk5U6g7rCgUGhqW-79">
+        <mxCell id="5unYVMk5U6g7rCgUGhqW-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="5unYVMk5U6g7rCgUGhqW-84" target="5unYVMk5U6g7rCgUGhqW-79">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5unYVMk5U6g7rCgUGhqW-84" value="融合系数λ，根据block中，&lt;span style=&quot;background-color: initial;&quot;&gt;拥有最小的&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;高光可靠性&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;R_min的数量的占比Q来确定，&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;形成Q → λ的查找表&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="880" y="660" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5unYVMk5U6g7rCgUGhqW-86" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry y="630" width="510" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="5unYVMk5U6g7rCgUGhqW-87" value="" style="endArrow=none;dashed=1;html=1;strokeWidth=2;rounded=0;strokeColor=#FF0808;fontFamily=Helvetica;" edge="1" parent="5unYVMk5U6g7rCgUGhqW-86">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint as="sourcePoint" />
+            <mxPoint x="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5unYVMk5U6g7rCgUGhqW-88" value="" style="endArrow=none;dashed=1;html=1;strokeWidth=2;rounded=0;strokeColor=#FF0808;fontFamily=Helvetica;" edge="1" parent="5unYVMk5U6g7rCgUGhqW-86">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint as="sourcePoint" />
+            <mxPoint y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5unYVMk5U6g7rCgUGhqW-89" value="" style="endArrow=none;dashed=1;html=1;strokeWidth=2;rounded=0;strokeColor=#FF0808;fontFamily=Helvetica;" edge="1" parent="5unYVMk5U6g7rCgUGhqW-86">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="114" as="sourcePoint" />
+            <mxPoint x="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5unYVMk5U6g7rCgUGhqW-90" value="" style="endArrow=none;dashed=1;html=1;strokeWidth=2;rounded=0;strokeColor=#FF0808;fontFamily=Helvetica;" edge="1" parent="5unYVMk5U6g7rCgUGhqW-86">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3.1875" y="117" as="sourcePoint" />
+            <mxPoint x="510" y="117" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5unYVMk5U6g7rCgUGhqW-91" value="&lt;font color=&quot;#ff0808&quot; style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;第三阶段：峰值测光&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="5unYVMk5U6g7rCgUGhqW-86">
+          <mxGeometry x="37.09090909090909" y="1" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
