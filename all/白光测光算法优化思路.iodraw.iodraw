@@ -50,21 +50,21 @@
         </mxCell>
         <mxCell id="5unYVMk5U6g7rCgUGhqW-31" value="面积占比&lt;br&gt;75%" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5unYVMk5U6g7rCgUGhqW-29">
           <mxGeometry x="0.9208" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5unYVMk5U6g7rCgUGhqW-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="5unYVMk5U6g7rCgUGhqW-9" target="5unYVMk5U6g7rCgUGhqW-28">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="773" y="260" />
-              <mxPoint x="30" y="260" />
-              <mxPoint x="30" y="520" />
+              <mxPoint x="10" y="260" />
+              <mxPoint x="10" y="520" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="5unYVMk5U6g7rCgUGhqW-32" value="面积占比&lt;br&gt;25%" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5unYVMk5U6g7rCgUGhqW-30">
           <mxGeometry x="0.9291" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-10" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5unYVMk5U6g7rCgUGhqW-9" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;有效视场的&lt;/font&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;block矩阵&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
