@@ -171,8 +171,8 @@
         </mxCell>
         <mxCell id="5unYVMk5U6g7rCgUGhqW-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.025;entryY=0.65;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="461" y="67" as="sourcePoint" />
-            <mxPoint x="512" y="67" as="targetPoint" />
+            <mxPoint x="462" y="67" as="sourcePoint" />
+            <mxPoint x="513" y="67" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5unYVMk5U6g7rCgUGhqW-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5unYVMk5U6g7rCgUGhqW-36" target="5unYVMk5U6g7rCgUGhqW-51">
@@ -306,6 +306,9 @@
         </mxCell>
         <mxCell id="5unYVMk5U6g7rCgUGhqW-79" value="Mf = Mr + λ * max(0, Mp - Mr&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="601" y="660" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5unYVMk5U6g7rCgUGhqW-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5unYVMk5U6g7rCgUGhqW-84" target="5unYVMk5U6g7rCgUGhqW-79">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5unYVMk5U6g7rCgUGhqW-84" value="融合系数λ，根据block中，&lt;span style=&quot;background-color: initial;&quot;&gt;拥有最小的&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;高光可靠性&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;R_min的数量的占比Q来确定，&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;形成Q → λ的查找表&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="880" y="660" width="250" height="60" as="geometry" />
