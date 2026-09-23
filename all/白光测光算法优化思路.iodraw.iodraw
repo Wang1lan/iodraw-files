@@ -33,7 +33,7 @@
         <mxCell id="5unYVMk5U6g7rCgUGhqW-7" value="圆形有效视场权重_16×16.txt" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="540" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5unYVMk5U6g7rCgUGhqW-9" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="5unYVMk5U6g7rCgUGhqW-9" value="有效视场的block矩阵" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="740" y="97" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
