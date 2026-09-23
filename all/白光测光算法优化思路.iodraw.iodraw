@@ -213,8 +213,13 @@
         <mxCell id="5unYVMk5U6g7rCgUGhqW-56" value="中心权重α" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="950" y="430" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5unYVMk5U6g7rCgUGhqW-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5unYVMk5U6g7rCgUGhqW-59" target="5unYVMk5U6g7rCgUGhqW-79">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="5unYVMk5U6g7rCgUGhqW-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="5unYVMk5U6g7rCgUGhqW-59" target="5unYVMk5U6g7rCgUGhqW-79">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1220" y="530" />
+              <mxPoint x="711" y="530" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="5unYVMk5U6g7rCgUGhqW-59" value="区域测光值&lt;br&gt;Mr = α * Lc + (1-α) * Lp" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1150" y="430" width="140" height="60" as="geometry" />
@@ -260,7 +265,7 @@
         <mxCell id="5unYVMk5U6g7rCgUGhqW-67" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;参与峰值测光&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;的block&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="108" y="660" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5unYVMk5U6g7rCgUGhqW-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5unYVMk5U6g7rCgUGhqW-70" target="5unYVMk5U6g7rCgUGhqW-79">
+        <mxCell id="5unYVMk5U6g7rCgUGhqW-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="5unYVMk5U6g7rCgUGhqW-70" target="5unYVMk5U6g7rCgUGhqW-79">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5unYVMk5U6g7rCgUGhqW-70" value="Mp = Σ γi * Bi" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
