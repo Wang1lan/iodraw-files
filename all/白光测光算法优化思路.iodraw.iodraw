@@ -100,6 +100,10 @@
         <mxCell id="5unYVMk5U6g7rCgUGhqW-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5unYVMk5U6g7rCgUGhqW-18">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="270" y="400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1240" y="320" />
+              <mxPoint x="271" y="320" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="5unYVMk5U6g7rCgUGhqW-18" value="每个block的&lt;div&gt;高光可靠性Ri&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
