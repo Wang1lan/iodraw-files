@@ -287,8 +287,8 @@
             <mxPoint x="550" y="117" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5unYVMk5U6g7rCgUGhqW-78" value="&lt;font color=&quot;#ff0808&quot; style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;第三阶段：峰值测光&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="490" y="688" width="160" height="30" as="geometry" />
+        <mxCell id="5unYVMk5U6g7rCgUGhqW-78" value="&lt;font color=&quot;#ff0808&quot; style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;第三阶段：峰值测光&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="5unYVMk5U6g7rCgUGhqW-73">
+          <mxGeometry x="40" y="1" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
