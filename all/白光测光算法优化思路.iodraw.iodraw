@@ -97,7 +97,12 @@
           <mxGeometry x="1039" y="133" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5unYVMk5U6g7rCgUGhqW-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="5unYVMk5U6g7rCgUGhqW-18" target="5unYVMk5U6g7rCgUGhqW-43">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1240" y="330" />
+              <mxPoint x="370" y="330" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="5unYVMk5U6g7rCgUGhqW-18" value="每个block的&lt;div&gt;高光可靠性Ri&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1180" y="198" width="120" height="60" as="geometry" />
@@ -129,8 +134,8 @@
             <mxPoint x="1290" y="273" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5unYVMk5U6g7rCgUGhqW-26" value="&lt;font color=&quot;#ff0808&quot; style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;阶段一：图像预处理&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="5unYVMk5U6g7rCgUGhqW-21">
-          <mxGeometry x="40" y="30" width="160" height="30" as="geometry" />
+        <mxCell id="5unYVMk5U6g7rCgUGhqW-26" value="&lt;font color=&quot;#ff0808&quot; style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;阶段一：预处理&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="5unYVMk5U6g7rCgUGhqW-21">
+          <mxGeometry x="55" y="30" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5unYVMk5U6g7rCgUGhqW-33" value="直径1440像素的&lt;div&gt;画面中心部分，&lt;/div&gt;&lt;div&gt;故有效视场并非&lt;/div&gt;&lt;div&gt;完整圆形区域&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="5unYVMk5U6g7rCgUGhqW-21">
           <mxGeometry x="325" y="20" width="110" height="70" as="geometry" />
