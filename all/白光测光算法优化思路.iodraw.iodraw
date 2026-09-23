@@ -194,7 +194,7 @@
         <mxCell id="5unYVMk5U6g7rCgUGhqW-56" value="中心权重α" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="950" y="430" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5unYVMk5U6g7rCgUGhqW-59" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="5unYVMk5U6g7rCgUGhqW-59" value="Mr = α * Lc + (1-α)*Lp" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1150" y="430" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
