@@ -33,12 +33,6 @@
         <mxCell id="5unYVMk5U6g7rCgUGhqW-7" value="圆形有效视场权重_16×16.txt" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="513" y="28" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5unYVMk5U6g7rCgUGhqW-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5unYVMk5U6g7rCgUGhqW-9" target="5unYVMk5U6g7rCgUGhqW-11">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="5unYVMk5U6g7rCgUGhqW-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5unYVMk5U6g7rCgUGhqW-9" target="5unYVMk5U6g7rCgUGhqW-11">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="5unYVMk5U6g7rCgUGhqW-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5unYVMk5U6g7rCgUGhqW-9" target="5unYVMk5U6g7rCgUGhqW-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -53,6 +47,9 @@
         </mxCell>
         <mxCell id="5unYVMk5U6g7rCgUGhqW-15" value="统计每个block&lt;div&gt;的高光比例Hi&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="913" y="198" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5unYVMk5U6g7rCgUGhqW-17" value="统计每个block&lt;div&gt;的高光比例Hi&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="923" y="208" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
