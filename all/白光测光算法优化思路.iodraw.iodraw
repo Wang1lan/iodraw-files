@@ -49,7 +49,7 @@
           <mxGeometry x="913" y="198" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5unYVMk5U6g7rCgUGhqW-17" value="高光可信度查找表&lt;div&gt;Hi → Ri&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="900" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="900" y="320" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
