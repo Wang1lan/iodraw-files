@@ -56,7 +56,7 @@
             <mxPoint x="1104" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5unYVMk5U6g7rCgUGhqW-17" value="高光可信度查找表&lt;div&gt;Hi → Ri&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="5unYVMk5U6g7rCgUGhqW-17" value="高光可靠度查找表&lt;div&gt;Hi → Ri&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1039" y="133" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5unYVMk5U6g7rCgUGhqW-18" value="每个block的&lt;div&gt;高光可靠性&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
