@@ -180,11 +180,22 @@
         <mxCell id="5unYVMk5U6g7rCgUGhqW-51" value="ρ = Lc / Lp" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="430" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="5unYVMk5U6g7rCgUGhqW-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5unYVMk5U6g7rCgUGhqW-55">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="865" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="5unYVMk5U6g7rCgUGhqW-55" value="中心权重&lt;span style=&quot;background-color: initial;&quot;&gt;查找表&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;ρ → α&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="800" y="370" width="130" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="5unYVMk5U6g7rCgUGhqW-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5unYVMk5U6g7rCgUGhqW-56" target="5unYVMk5U6g7rCgUGhqW-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="5unYVMk5U6g7rCgUGhqW-56" value="中心权重α" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="950" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5unYVMk5U6g7rCgUGhqW-59" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="430" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
