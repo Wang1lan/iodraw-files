@@ -107,7 +107,7 @@
             <mxPoint x="1104" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5unYVMk5U6g7rCgUGhqW-17" value="高光可靠度查找表&lt;div&gt;Hi → Ri&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+        <mxCell id="5unYVMk5U6g7rCgUGhqW-17" value="高光可靠度查找表&lt;div&gt;Nh → Ri&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1039" y="133" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5unYVMk5U6g7rCgUGhqW-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="5unYVMk5U6g7rCgUGhqW-18" target="5unYVMk5U6g7rCgUGhqW-43" edge="1">
