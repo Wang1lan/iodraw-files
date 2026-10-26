@@ -207,7 +207,7 @@
             <mxPoint x="865" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5unYVMk5U6g7rCgUGhqW-55" value="中心权重&lt;span style=&quot;background-color: initial;&quot;&gt;查找表&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;ρ → α&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+        <mxCell id="5unYVMk5U6g7rCgUGhqW-55" value="分段线性映射" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="800" y="370" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5unYVMk5U6g7rCgUGhqW-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5unYVMk5U6g7rCgUGhqW-56" target="5unYVMk5U6g7rCgUGhqW-59" edge="1">
