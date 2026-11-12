@@ -124,8 +124,8 @@
         <mxCell id="LH0jAdhM5AZDjto78ULY-41" value="Tlow_Q4" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="638" y="152" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LH0jAdhM5AZDjto78ULY-47" value="floor(2➗)" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1115" y="92" width="120" height="60" as="geometry" />
+        <mxCell id="LH0jAdhM5AZDjto78ULY-47" value="floor(÷2)" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="92" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
