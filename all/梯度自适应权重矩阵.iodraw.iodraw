@@ -45,11 +45,14 @@
         <mxCell id="LH0jAdhM5AZDjto78ULY-11" value="cround(GHigh*524160)" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="290" y="40" width="170" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="LH0jAdhM5AZDjto78ULY-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LH0jAdhM5AZDjto78ULY-13" target="LH0jAdhM5AZDjto78ULY-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="LH0jAdhM5AZDjto78ULY-13" value="Thigh_Q4" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="540" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LH0jAdhM5AZDjto78ULY-16" value="➖" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="710" y="100" width="45" height="45" as="geometry" />
+          <mxGeometry x="730" y="100" width="45" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
