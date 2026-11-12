@@ -463,10 +463,13 @@
             <mxRectangle width="34" height="33" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ogzqjG4fliU2VXpSoeyO-43" value="1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="ogzqjG4fliU2VXpSoeyO-40">
+        <mxCell id="ogzqjG4fliU2VXpSoeyO-43" value="-1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="ogzqjG4fliU2VXpSoeyO-40">
           <mxGeometry x="67" width="33" height="33" as="geometry">
             <mxRectangle width="33" height="33" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ogzqjG4fliU2VXpSoeyO-44" value="sobel_x" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="410" y="90" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
