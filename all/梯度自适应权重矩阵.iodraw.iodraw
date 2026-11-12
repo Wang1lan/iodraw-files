@@ -282,7 +282,7 @@
         <mxCell id="LH0jAdhM5AZDjto78ULY-92" value="clip(0, 4294967295)" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1213" y="414" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LH0jAdhM5AZDjto78ULY-94" value="K_Q20" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="LH0jAdhM5AZDjto78ULY-94" value="&lt;font color=&quot;#ff0000&quot;&gt;K_Q20&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1013" y="414" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LH0jAdhM5AZDjto78ULY-99" value="" style="group" vertex="1" connectable="0" parent="1">
