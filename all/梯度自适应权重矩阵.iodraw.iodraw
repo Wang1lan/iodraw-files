@@ -348,8 +348,8 @@
         <mxCell id="ogzqjG4fliU2VXpSoeyO-12" value="pixels" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="395" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ogzqjG4fliU2VXpSoeyO-16" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="400" y="240" width="60" height="30" as="geometry" />
+        <mxCell id="ogzqjG4fliU2VXpSoeyO-16" value="利用sobel算子求梯度幅值" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="395" y="310" width="165" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
