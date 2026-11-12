@@ -312,7 +312,7 @@
             <mxPoint x="1590" y="487.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LH0jAdhM5AZDjto78ULY-104" value="&lt;font style=&quot;font-size: 15px;&quot; color=&quot;#ff0000&quot;&gt;clip(0, n) 指 min(max(x, 0), n)，x为输入参数，上述流程由上位机软件执行。&lt;br&gt;GHigh、GLow、Wmin为通过软件界面输入的参数，软件计算出的K_Q20下发给FPGA。&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot; color=&quot;#ff0000&quot;&gt;所以FPGA接收四个参数：&lt;/font&gt;&lt;span style=&quot;color: rgb(255, 0, 0); text-align: center; white-space: normal; background-color: initial;&quot;&gt;THigh_Q4、&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="LH0jAdhM5AZDjto78ULY-99">
+        <mxCell id="LH0jAdhM5AZDjto78ULY-104" value="&lt;font style=&quot;font-size: 15px;&quot; color=&quot;#ff0000&quot;&gt;clip(0, n) 指 min(max(x, 0), n)，x为输入参数，上述流程由上位机软件执行。&lt;br&gt;GHigh、GLow、Wmin为通过软件界面输入的参数，软件计算出的K_Q20下发给FPGA。&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot; color=&quot;#ff0000&quot;&gt;所以FPGA接收四个参数：&lt;/font&gt;&lt;span style=&quot;color: rgb(255, 0, 0); text-align: center; white-space: normal; background-color: initial;&quot;&gt;THigh_Q4、&lt;/span&gt;&lt;span style=&quot;color: rgb(255, 0, 0); text-align: center; white-space: normal; background-color: initial;&quot;&gt;Tlow_Q4、&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="LH0jAdhM5AZDjto78ULY-99">
           <mxGeometry x="180" y="360" width="610" height="70" as="geometry" />
         </mxCell>
       </root>
