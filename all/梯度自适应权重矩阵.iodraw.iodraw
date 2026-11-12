@@ -334,7 +334,7 @@
         <mxCell id="ogzqjG4fliU2VXpSoeyO-1" value="Y12" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ogzqjG4fliU2VXpSoeyO-2" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ogzqjG4fliU2VXpSoeyO-2" value="Padding([1, 1])" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="120" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
