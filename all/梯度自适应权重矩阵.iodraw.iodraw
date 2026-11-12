@@ -210,7 +210,7 @@
           <mxGeometry x="1317.5" y="200" width="45" height="45" as="geometry" />
         </mxCell>
         <mxCell id="LH0jAdhM5AZDjto78ULY-70" value="slopeRound_u32" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1411" y="192.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="1413" y="192.5" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
