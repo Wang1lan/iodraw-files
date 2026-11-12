@@ -31,7 +31,7 @@
         <mxCell id="LH0jAdhM5AZDjto78ULY-4" value="cround(GLow*524160)" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="200" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LH0jAdhM5AZDjto78ULY-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LH0jAdhM5AZDjto78ULY-8" target="LH0jAdhM5AZDjto78ULY-16">
+        <mxCell id="LH0jAdhM5AZDjto78ULY-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#0000ff;" edge="1" parent="1" source="LH0jAdhM5AZDjto78ULY-8" target="LH0jAdhM5AZDjto78ULY-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LH0jAdhM5AZDjto78ULY-8" value="Tlow_Q4" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
