@@ -260,8 +260,14 @@
         <mxCell id="LH0jAdhM5AZDjto78ULY-84" value="floor(÷)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1413" y="300" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="LH0jAdhM5AZDjto78ULY-93" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LH0jAdhM5AZDjto78ULY-89" target="LH0jAdhM5AZDjto78ULY-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="LH0jAdhM5AZDjto78ULY-89" value="slope_u32" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1413" y="414" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LH0jAdhM5AZDjto78ULY-92" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1213" y="414" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
