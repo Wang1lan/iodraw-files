@@ -313,7 +313,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LH0jAdhM5AZDjto78ULY-104" value="clip(0, n) 指 min(max(x, 0), n)，x为输入参数，上述流程" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="LH0jAdhM5AZDjto78ULY-99">
-          <mxGeometry y="350" width="320" height="30" as="geometry" />
+          <mxGeometry x="280" y="350" width="320" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
