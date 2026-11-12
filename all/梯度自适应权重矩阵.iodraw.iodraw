@@ -17,7 +17,7 @@
         <mxCell id="LH0jAdhM5AZDjto78ULY-3" value="GHigh" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LH0jAdhM5AZDjto78ULY-4" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="LH0jAdhM5AZDjto78ULY-4" value="clip(round(GLow*524160))" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="380" y="80" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
