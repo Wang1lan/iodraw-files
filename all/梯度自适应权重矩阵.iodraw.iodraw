@@ -343,10 +343,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ogzqjG4fliU2VXpSoeyO-2" value="Padding([1, 1])" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="259" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="218" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ogzqjG4fliU2VXpSoeyO-12" value="pixels" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="395" y="160" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
