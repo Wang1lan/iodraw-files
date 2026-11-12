@@ -312,8 +312,8 @@
             <mxPoint x="1590" y="487.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LH0jAdhM5AZDjto78ULY-104" value="clip(0, n) 指 min(max(x, n), 0)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry y="358" width="180" height="30" as="geometry" />
+        <mxCell id="LH0jAdhM5AZDjto78ULY-104" value="clip(0, n) 指 min(max(x, n), 0)，x为输入参数" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="LH0jAdhM5AZDjto78ULY-99">
+          <mxGeometry y="350" width="260" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
