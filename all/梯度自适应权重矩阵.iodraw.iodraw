@@ -29,9 +29,6 @@
         <mxCell id="LH0jAdhM5AZDjto78ULY-4" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="440" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LH0jAdhM5AZDjto78ULY-7" value="×&lt;span style=&quot;white-space: pre; font-family: Menlo, Monaco, Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 12pt; text-align: start; background-color: initial;&quot;&gt;524160&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="330" y="128" width="80" height="30" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
