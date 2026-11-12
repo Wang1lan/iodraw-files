@@ -349,7 +349,7 @@
           <mxGeometry x="395" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ogzqjG4fliU2VXpSoeyO-16" value="&lt;b&gt;&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 15px;&quot;&gt;利用sobel算子求梯度幅值&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="395" y="310" width="165" height="30" as="geometry" />
+          <mxGeometry x="30" y="30" width="185" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
