@@ -1226,7 +1226,7 @@
         <mxCell id="kzqVrpXIF-5tUS3HErvq-1" value="G_Q4(i,j)" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="640" y="352" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kzqVrpXIF-5tUS3HErvq-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="kzqVrpXIF-5tUS3HErvq-4" target="kzqVrpXIF-5tUS3HErvq-7">
+        <mxCell id="kzqVrpXIF-5tUS3HErvq-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#0000ff;" edge="1" parent="1" source="kzqVrpXIF-5tUS3HErvq-4" target="kzqVrpXIF-5tUS3HErvq-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kzqVrpXIF-5tUS3HErvq-11" value="u19" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kzqVrpXIF-5tUS3HErvq-9">
@@ -1237,8 +1237,14 @@
         <mxCell id="kzqVrpXIF-5tUS3HErvq-4" value="Tlow_Q4" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="820" y="352" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="k8TZLzQWEieSuiuJL4cn-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kzqVrpXIF-5tUS3HErvq-7" target="k8TZLzQWEieSuiuJL4cn-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="kzqVrpXIF-5tUS3HErvq-7" value="-&#39;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="765.5" y="460" width="45" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="k8TZLzQWEieSuiuJL4cn-1" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="728" y="577.5" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
