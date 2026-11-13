@@ -670,7 +670,7 @@
         <mxCell id="PIiCXTK5Yf5ae6ECDGaG-4" value="&lt;font size=&quot;1&quot; color=&quot;#ff0000&quot;&gt;&lt;b style=&quot;font-size: 22px;&quot;&gt;卷积流程图&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="121" y="493" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="PIiCXTK5Yf5ae6ECDGaG-5" value="pixels_u12" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="PIiCXTK5Yf5ae6ECDGaG-5" value="&lt;b&gt;pixels_u12&lt;/b&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="609" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pxuAfEF6Ib2lrfLHt9QI-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SobelNorm_Sample" target="SobelNorm_Pixel_p21">
