@@ -1279,7 +1279,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="k8TZLzQWEieSuiuJL4cn-6" value="K_Q20" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="602.5" y="460" width="120" height="60" as="geometry" />
+          <mxGeometry x="602.5" y="480" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k8TZLzQWEieSuiuJL4cn-10" value="product_u33" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="477.5" y="550" width="120" height="60" as="geometry" />
