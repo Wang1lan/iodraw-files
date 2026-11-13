@@ -345,6 +345,9 @@
         <mxCell id="ogzqjG4fliU2VXpSoeyO-2" value="Padding([1, 1])" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="218" y="260" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="HkqFV1xRTDh1L9yZAOXx-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ogzqjG4fliU2VXpSoeyO-12" target="HkqFV1xRTDh1L9yZAOXx-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ogzqjG4fliU2VXpSoeyO-12" value="pixels_u12" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="395" y="260" width="120" height="60" as="geometry" />
         </mxCell>
@@ -484,7 +487,7 @@
           <mxGeometry y="70" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HkqFV1xRTDh1L9yZAOXx-8" value="&lt;b&gt;* &lt;/b&gt;sobel_x" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="560" y="180" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
