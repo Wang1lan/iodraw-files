@@ -1219,7 +1219,7 @@
         <mxCell id="4eNxr4S_fLQeJYKlI2iu-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mapgrad3_Wmin_add" target="mapgrad3_plus">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4eNxr4S_fLQeJYKlI2iu-4" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4eNxr4S_fLQeJYKlI2iu-3">
+        <mxCell id="4eNxr4S_fLQeJYKlI2iu-4" value="u12" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4eNxr4S_fLQeJYKlI2iu-3">
           <mxGeometry x="-0.12" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
