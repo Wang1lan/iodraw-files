@@ -1361,8 +1361,8 @@
         <mxCell id="k8TZLzQWEieSuiuJL4cn-34" value="Wmin12" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="177.5" y="760" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="k8TZLzQWEieSuiuJL4cn-37" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="287.5" y="660" width="120" height="60" as="geometry" />
+        <mxCell id="k8TZLzQWEieSuiuJL4cn-37" value="weightSum_u13" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="318" y="660" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
