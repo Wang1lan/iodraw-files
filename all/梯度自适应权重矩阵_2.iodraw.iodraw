@@ -1417,7 +1417,7 @@
         <mxCell id="k8TZLzQWEieSuiuJL4cn-43" value="W0_12(i, j)" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="721" y="660" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="13Ix0yTEB2OBB-CIY0s4-1" value="&lt;b&gt;W0_12&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="13Ix0yTEB2OBB-CIY0s4-1" value="&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;W0_12&lt;/font&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="950" y="660" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
