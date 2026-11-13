@@ -1192,8 +1192,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GwdpfVB2P42JPn2p-ReN-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h0jJOkpe1uB4EaidTvUI-15" target="GwdpfVB2P42JPn2p-ReN-1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="GwdpfVB2P42JPn2p-ReN-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h0jJOkpe1uB4EaidTvUI-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="788" y="354" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="GwdpfVB2P42JPn2p-ReN-3" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GwdpfVB2P42JPn2p-ReN-2">
           <mxGeometry x="-0.1935" y="1" relative="1" as="geometry">
@@ -1205,9 +1207,6 @@
         </mxCell>
         <mxCell id="h0jJOkpe1uB4EaidTvUI-19" value="W0_12(i,j) = Wmin12" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="928" y="222" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="GwdpfVB2P42JPn2p-ReN-1" value="delta_Q4 = G_Q4(i,j) - Tlow_Q4" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="728" y="354" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-cYquIrWjapouSFBgpTC-1" value="&lt;font color=&quot;#ff0000&quot; style=&quot;forced-color-adjust: none; font-family: Helvetica; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;FPGA接收四个参数：&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;forced-color-adjust: none; font-family: Helvetica; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: initial; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; color: rgb(255, 0, 0);&quot;&gt;THigh_Q4, u19&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;forced-color-adjust: none; font-family: Helvetica; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: initial; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; color: rgb(255, 0, 0);&quot;&gt;Tlow_Q4, u19&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;forced-color-adjust: none; font-family: Helvetica; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: initial; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; color: rgb(255, 0, 0);&quot;&gt;Wmin12, u12&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;forced-color-adjust: none; font-family: Helvetica; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: initial; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; color: rgb(255, 0, 0);&quot;&gt;K_Q20, u32&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="730" y="30" width="180" height="110" as="geometry" />
