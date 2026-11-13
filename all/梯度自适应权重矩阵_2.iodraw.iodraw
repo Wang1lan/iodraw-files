@@ -1248,11 +1248,17 @@
         <mxCell id="kzqVrpXIF-5tUS3HErvq-7" value="-&#39;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="765.5" y="460" width="45" height="45" as="geometry" />
         </mxCell>
+        <mxCell id="k8TZLzQWEieSuiuJL4cn-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k8TZLzQWEieSuiuJL4cn-1" target="k8TZLzQWEieSuiuJL4cn-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="k8TZLzQWEieSuiuJL4cn-1" value="delta_Q4" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="728" y="550" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="k8TZLzQWEieSuiuJL4cn-4" value="×" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="640" y="557.5" width="45" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="k8TZLzQWEieSuiuJL4cn-6" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="470" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
