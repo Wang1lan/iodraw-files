@@ -1489,7 +1489,7 @@
         <mxCell id="Dsn0jvp9E5Pqu_OTAinE-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Dsn0jvp9E5Pqu_OTAinE-17" target="Dsn0jvp9E5Pqu_OTAinE-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Dsn0jvp9E5Pqu_OTAinE-22" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Dsn0jvp9E5Pqu_OTAinE-21">
+        <mxCell id="Dsn0jvp9E5Pqu_OTAinE-22" value="9 × u16" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Dsn0jvp9E5Pqu_OTAinE-21">
           <mxGeometry x="-0.0444" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
