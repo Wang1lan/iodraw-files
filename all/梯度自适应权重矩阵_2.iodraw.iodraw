@@ -89,8 +89,8 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="975" y="60" />
-              <mxPoint x="1515" y="60" />
-              <mxPoint x="1515" y="333" />
+              <mxPoint x="1560" y="60" />
+              <mxPoint x="1560" y="333" />
             </Array>
             <mxPoint x="1533" y="330" as="targetPoint" />
           </mxGeometry>
@@ -253,7 +253,7 @@
         <mxCell id="LH0jAdhM5AZDjto78ULY-70" value="slopeRound_u32" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1413" y="192.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LH0jAdhM5AZDjto78ULY-90" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="LH0jAdhM5AZDjto78ULY-89" edge="1">
+        <mxCell id="LH0jAdhM5AZDjto78ULY-90" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.511;exitY=0.889;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="xEwEGze0gfAhTWm98anb-11" target="LH0jAdhM5AZDjto78ULY-89" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1473" y="360" as="sourcePoint" />
           </mxGeometry>
