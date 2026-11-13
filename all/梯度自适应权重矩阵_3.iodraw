@@ -1216,8 +1216,16 @@
         <mxCell id="mapgrad3_stage3" value="③ 累加、双重限幅与三路输出选择" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;fontSize=18;fontStyle=1;strokeColor=none;fillColor=none;fontColor=#222222;" parent="1" vertex="1">
           <mxGeometry x="45" y="756" width="860" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="4eNxr4S_fLQeJYKlI2iu-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mapgrad3_Wmin_add" target="mapgrad3_plus">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4eNxr4S_fLQeJYKlI2iu-4" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4eNxr4S_fLQeJYKlI2iu-3">
+          <mxGeometry x="-0.12" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="mapgrad3_Wmin_add" value="Wmin12" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontSize=17;fillColor=#FFFFFF;strokeColor=#333333;strokeWidth=1.5;" parent="1" vertex="1">
-          <mxGeometry x="86" y="817" width="141" height="61" as="geometry" />
+          <mxGeometry x="86" y="821" width="141" height="61" as="geometry" />
         </mxCell>
         <mxCell id="mapgrad3_plus" value="+&amp;#x27;" style="ellipse;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontSize=17;fillColor=#FFFFFF;strokeColor=#333333;strokeWidth=1.5;" parent="1" vertex="1">
           <mxGeometry x="305" y="821" width="60" height="60" as="geometry" />
