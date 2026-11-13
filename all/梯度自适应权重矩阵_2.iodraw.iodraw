@@ -661,11 +661,6 @@
         <mxCell id="PIiCXTK5Yf5ae6ECDGaG-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="PIiCXTK5Yf5ae6ECDGaG-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="440" y="400" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="440" y="430" />
-              <mxPoint x="185" y="430" />
-              <mxPoint x="185" y="476" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="PIiCXTK5Yf5ae6ECDGaG-4" value="&lt;font size=&quot;1&quot; color=&quot;#ff0000&quot;&gt;&lt;b style=&quot;font-size: 22px;&quot;&gt;卷积流程图&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -1189,7 +1184,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="13Ix0yTEB2OBB-CIY0s4-8" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="13Ix0yTEB2OBB-CIY0s4-6">
+        <mxCell id="13Ix0yTEB2OBB-CIY0s4-8" value="u12" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="13Ix0yTEB2OBB-CIY0s4-6">
           <mxGeometry x="0.9265" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -1224,6 +1219,11 @@
         </mxCell>
         <mxCell id="13Ix0yTEB2OBB-CIY0s4-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="h0jJOkpe1uB4EaidTvUI-19" target="13Ix0yTEB2OBB-CIY0s4-1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="13Ix0yTEB2OBB-CIY0s4-9" value="u12" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="13Ix0yTEB2OBB-CIY0s4-7">
+          <mxGeometry x="0.7926" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="h0jJOkpe1uB4EaidTvUI-19" value="W0_12(i,j) = Wmin12" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="977" y="222" width="120" height="60" as="geometry" />
