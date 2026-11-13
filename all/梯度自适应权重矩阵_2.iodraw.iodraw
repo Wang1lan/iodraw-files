@@ -731,7 +731,7 @@
           <mxGeometry x="761" y="664" width="73" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SobelNorm_WindowNote" value="3×3 像素窗口（u12）&#xa;p22 的卷积系数为 0，不参与计算" style="text;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;fontSize=14;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="882" y="591" width="410" height="64" as="geometry" />
+          <mxGeometry x="882" y="591" width="238" height="64" as="geometry" />
         </mxCell>
         <mxCell id="SobelNorm_BusX" value="来自共享窗口的像素（u12）" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontSize=15;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="310" y="798" width="280" height="46" as="geometry" />
@@ -1136,7 +1136,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="x3N8vbr_zbleooisN3gt" name="映射初始矩阵">
-    <mxGraphModel dx="1426" dy="757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1877" dy="757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
