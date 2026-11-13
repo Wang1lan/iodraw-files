@@ -1198,6 +1198,9 @@
         <mxCell id="kzqVrpXIF-5tUS3HErvq-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h0jJOkpe1uB4EaidTvUI-15" target="kzqVrpXIF-5tUS3HErvq-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="kzqVrpXIF-5tUS3HErvq-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="h0jJOkpe1uB4EaidTvUI-15" target="kzqVrpXIF-5tUS3HErvq-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="h0jJOkpe1uB4EaidTvUI-15" value="G_Q4(i, j)&lt;div&gt;&amp;lt;=Tlow_Q4&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="728" y="212" width="120" height="80" as="geometry" />
         </mxCell>
@@ -1208,10 +1211,10 @@
           <mxGeometry x="730" y="30" width="180" height="110" as="geometry" />
         </mxCell>
         <mxCell id="kzqVrpXIF-5tUS3HErvq-1" value="G_Q4(i,j)" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="640" y="340" width="120" height="60" as="geometry" />
+          <mxGeometry x="640" y="348" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kzqVrpXIF-5tUS3HErvq-4" value="Tlow_Q4" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="820" y="340" width="120" height="60" as="geometry" />
+          <mxGeometry x="820" y="348" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
