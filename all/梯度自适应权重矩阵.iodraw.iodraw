@@ -483,8 +483,11 @@
         <mxCell id="ogzqjG4fliU2VXpSoeyO-44" value="sobel_y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="HkqFV1xRTDh1L9yZAOXx-6" vertex="1">
           <mxGeometry y="70" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HkqFV1xRTDh1L9yZAOXx-8" value="juan&#39;ji" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HkqFV1xRTDh1L9yZAOXx-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HkqFV1xRTDh1L9yZAOXx-10" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="250" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
