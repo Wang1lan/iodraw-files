@@ -1714,7 +1714,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_cKubMLOPyi9TsIVPMxW-7" value="clip(0, 4095)" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="_cKubMLOPyi9TsIVPMxW-7" value="clip(Wmin12, 4095)" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="720" y="658" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_cKubMLOPyi9TsIVPMxW-10" value="&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;W12&lt;/font&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
