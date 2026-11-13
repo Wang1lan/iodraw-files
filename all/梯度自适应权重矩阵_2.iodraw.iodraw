@@ -324,6 +324,9 @@
         <mxCell id="xEwEGze0gfAhTWm98anb-2" value="floor，向下取整" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="LH0jAdhM5AZDjto78ULY-99">
           <mxGeometry x="1097.5" y="125" width="110" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="xEwEGze0gfAhTWm98anb-11" value="÷2" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="110" width="45" height="45" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
