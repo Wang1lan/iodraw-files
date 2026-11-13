@@ -1152,7 +1152,7 @@
           <mxGeometry x="858" y="1757" width="687" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SobelNorm_Footnote" value="&lt;font color=&quot;#FF0000&quot;&gt;位宽关系：输入 u12 → 三组减法 s13 → 中间项左移 s14 → 两级加法 s15。减法次序与 GxGy.m 完全一致。&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;fontSize=14;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="133" y="1835" width="1380" height="43" as="geometry" />
+          <mxGeometry x="493.5" y="1840" width="687" height="43" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
