@@ -812,12 +812,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SobelNormEdge_X_BtoSub1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#2767B0;strokeWidth=1.5;exitX=0.5;exitY=1;entryX=0.72;entryY=0;" parent="1" source="SobelNorm_X_SourceB1" target="SobelNorm_X_Subtract1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="471" y="971" />
-              <mxPoint x="433" y="971" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SobelNormEdge_X_SubToDiff1" value="s13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#333333;strokeWidth=1.2;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" parent="1" source="SobelNorm_X_Subtract1" target="SobelNorm_X_DiffOut1" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -849,20 +844,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="SobelNormEdge_X_AtoSub2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#D22B36;strokeWidth=1.5;exitX=0.5;exitY=1;entryX=0.28;entryY=0;" parent="1" source="SobelNorm_X_SourceA2" target="SobelNorm_X_Subtract2" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="588" y="959" />
-              <mxPoint x="626" y="959" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SobelNormEdge_X_BtoSub2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#2767B0;strokeWidth=1.5;exitX=0.5;exitY=1;entryX=0.72;entryY=0;" parent="1" source="SobelNorm_X_SourceB2" target="SobelNorm_X_Subtract2" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="686" y="971" />
-              <mxPoint x="648" y="971" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SobelNormEdge_X_SubToDiff2" value="s13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#333333;strokeWidth=1.2;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" parent="1" source="SobelNorm_X_Subtract2" target="SobelNorm_X_DiffOut2" edge="1">
           <mxGeometry relative="1" as="geometry" />
