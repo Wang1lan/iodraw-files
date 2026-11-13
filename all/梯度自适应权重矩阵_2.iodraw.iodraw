@@ -1618,7 +1618,7 @@
         <mxCell id="_cKubMLOPyi9TsIVPMxW-4" value="mean_u12" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="720" y="442" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_cKubMLOPyi9TsIVPMxW-7" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="_cKubMLOPyi9TsIVPMxW-7" value="clip(Wmin12, 4095)" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="720" y="570" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
