@@ -1519,11 +1519,14 @@
         <mxCell id="Dsn0jvp9E5Pqu_OTAinE-23" value="&lt;span style=&quot;font-family: &amp;quot;Noto Sans CJK SC&amp;quot;;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Σa×b&lt;/font&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="295" width="50" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="7TYEJWVjmNJ4mL2OAjmr-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Dsn0jvp9E5Pqu_OTAinE-26" target="7TYEJWVjmNJ4mL2OAjmr-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Dsn0jvp9E5Pqu_OTAinE-26" value="S81" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7TYEJWVjmNJ4mL2OAjmr-1" value="+&#39;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="340.5" y="557.5" width="45" height="45" as="geometry" />
+          <mxGeometry x="170" y="297.5" width="45" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
