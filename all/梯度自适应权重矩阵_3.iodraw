@@ -1409,17 +1409,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mapgrad3_e18" value="" style="edgeStyle=segmentEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#333333;strokeWidth=1.5;endArrow=block;endFill=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="225" y="847.4999999999998" as="sourcePoint" />
-            <mxPoint x="303.00000000001046" y="851" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="mapgrad3_e18_label" value="u12" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;fontColor=#333333;fillColor=#FFFFFF;" parent="mapgrad3_e18" vertex="1" connectable="0">
-          <mxGeometry y="-12" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="mapgrad3_e19" value="" style="edgeStyle=segmentEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#333333;strokeWidth=1.5;endArrow=block;endFill=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="mapgrad3_plus" target="mapgrad3_sum" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
