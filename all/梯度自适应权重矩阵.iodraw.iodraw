@@ -592,14 +592,14 @@
         </mxCell>
         <mxCell id="HkqFV1xRTDh1L9yZAOXx-46" value="u15" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HkqFV1xRTDh1L9yZAOXx-44">
           <mxGeometry x="0.2414" relative="1" as="geometry">
-            <mxPoint x="-8" as="offset" />
+            <mxPoint x="-4" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HkqFV1xRTDh1L9yZAOXx-34" value="+&#39;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1210" y="267.5" width="45" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="HkqFV1xRTDh1L9yZAOXx-43" value="G" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1240" y="400" width="120" height="60" as="geometry" />
+        <mxCell id="HkqFV1xRTDh1L9yZAOXx-43" value="gradient_u15" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G-JxUee6MqqXuhW_zZzm-1" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="380" y="180" width="530" height="220" as="geometry" />
