@@ -1154,7 +1154,7 @@
         <mxCell id="pxuAfEF6Ib2lrfLHt9QI-2" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="40" y="526" width="1520" height="1324" as="geometry" />
         </mxCell>
-        <mxCell id="pxuAfEF6Ib2lrfLHt9QI-3" value="" style="endArrow=none;dashed=1;html=1;strokeWidth=2;rounded=0;strokeColor=#FF0808;fontFamily=Helvetica;" edge="1" parent="pxuAfEF6Ib2lrfLHt9QI-2">
+        <mxCell id="pxuAfEF6Ib2lrfLHt9QI-3" value="" style="endArrow=none;dashed=1;html=1;strokeWidth=2;rounded=0;strokeColor=#00ff00;fontFamily=Helvetica;" edge="1" parent="pxuAfEF6Ib2lrfLHt9QI-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint as="sourcePoint" />
             <mxPoint x="1520" as="targetPoint" />
