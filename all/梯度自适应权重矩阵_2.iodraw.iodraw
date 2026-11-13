@@ -1136,7 +1136,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="49IntPqC7V_C2nPhCgLu-2" value="G" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="49IntPqC7V_C2nPhCgLu-2" value="&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;G&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="222" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ArNFsslFy0zkfEoDeHA0-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="49IntPqC7V_C2nPhCgLu-3" target="ArNFsslFy0zkfEoDeHA0-2">
