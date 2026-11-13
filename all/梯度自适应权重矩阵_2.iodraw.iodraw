@@ -720,7 +720,7 @@
           <mxGeometry x="882" y="676" width="645" height="31" as="geometry" />
         </mxCell>
         <mxCell id="SobelNorm_TitleY" value="Gy：同一列上下行差分" style="text;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontSize=18;fontStyle=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="865" y="744" width="605" height="36" as="geometry" />
+          <mxGeometry x="1240" y="744" width="230" height="36" as="geometry" />
         </mxCell>
         <mxCell id="SobelNorm_BusX" value="来自共享窗口的像素（u12）" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontSize=15;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="310" y="798" width="280" height="46" as="geometry" />
