@@ -319,7 +319,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="0KIEfn88kekz9HXuVHd8" name="sobel算子求梯度">
-    <mxGraphModel dx="1426" dy="757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1890" math="0" shadow="0">
+    <mxGraphModel dx="2037" dy="1081" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1890" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -668,7 +668,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PIiCXTK5Yf5ae6ECDGaG-4" value="&lt;font size=&quot;1&quot; color=&quot;#ff0000&quot;&gt;&lt;b style=&quot;font-size: 22px;&quot;&gt;卷积流程图&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="121" y="510" width="130" height="40" as="geometry" />
+          <mxGeometry x="121" y="509" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PIiCXTK5Yf5ae6ECDGaG-5" value="pixels_u12" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="575" width="120" height="60" as="geometry" />
