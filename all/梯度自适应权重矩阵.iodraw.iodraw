@@ -508,11 +508,22 @@
         <mxCell id="HkqFV1xRTDh1L9yZAOXx-12" value="&lt;b&gt;* 指卷积&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="625" y="275" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="HkqFV1xRTDh1L9yZAOXx-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HkqFV1xRTDh1L9yZAOXx-14" target="HkqFV1xRTDh1L9yZAOXx-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HkqFV1xRTDh1L9yZAOXx-22" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HkqFV1xRTDh1L9yZAOXx-21">
+          <mxGeometry x="-0.0877" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="HkqFV1xRTDh1L9yZAOXx-14" value="&lt;b&gt;* &lt;/b&gt;sobel_y" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HkqFV1xRTDh1L9yZAOXx-17" value="Gx" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="777" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HkqFV1xRTDh1L9yZAOXx-20" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="777" y="320" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
