@@ -345,8 +345,10 @@
         <mxCell id="ogzqjG4fliU2VXpSoeyO-2" value="Padding([1, 1])" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="218" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HkqFV1xRTDh1L9yZAOXx-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ogzqjG4fliU2VXpSoeyO-12" target="HkqFV1xRTDh1L9yZAOXx-3">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="HkqFV1xRTDh1L9yZAOXx-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ogzqjG4fliU2VXpSoeyO-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="230" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="ogzqjG4fliU2VXpSoeyO-12" value="pixels_u12" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="395" y="260" width="120" height="60" as="geometry" />
@@ -479,9 +481,6 @@
         </mxCell>
         <mxCell id="HkqFV1xRTDh1L9yZAOXx-2" value="填充采用‘replicate’&lt;br&gt;边界复制模式" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="218" y="220" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="HkqFV1xRTDh1L9yZAOXx-3" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="595" y="260" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
