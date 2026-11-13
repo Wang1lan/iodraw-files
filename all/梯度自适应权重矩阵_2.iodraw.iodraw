@@ -1388,8 +1388,14 @@
         <mxCell id="k8TZLzQWEieSuiuJL4cn-40" value="clip(Wmin12, 4095)" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="518" y="660" width="122" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="13Ix0yTEB2OBB-CIY0s4-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k8TZLzQWEieSuiuJL4cn-43" target="13Ix0yTEB2OBB-CIY0s4-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="k8TZLzQWEieSuiuJL4cn-43" value="W0_12(i, j)" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="721" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="13Ix0yTEB2OBB-CIY0s4-1" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="921" y="660" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -1400,7 +1406,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="qzTbiZrTLC_akDwInuTt-1" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 25px;&quot;&gt;将初始权重矩阵进行9×9均值滤波&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="330" y="30" width="380" height="40" as="geometry" />
+          <mxGeometry x="370" y="30" width="380" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
