@@ -1165,16 +1165,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="h0jJOkpe1uB4EaidTvUI-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h0jJOkpe1uB4EaidTvUI-4">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="760" y="310" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="h0jJOkpe1uB4EaidTvUI-14" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="h0jJOkpe1uB4EaidTvUI-13">
-          <mxGeometry x="0.025" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="h0jJOkpe1uB4EaidTvUI-4" value="G_Q4(i, j)&lt;div&gt;&amp;gt;=Thigh_Q4&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="560" y="270" width="120" height="80" as="geometry" />
         </mxCell>
@@ -1182,7 +1172,7 @@
           <mxGeometry x="560" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="h0jJOkpe1uB4EaidTvUI-15" value="G_Q4(i, j)&lt;div&gt;&amp;gt;=Thigh_Q4&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="570" y="280" width="120" height="80" as="geometry" />
+          <mxGeometry x="760" y="270" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
