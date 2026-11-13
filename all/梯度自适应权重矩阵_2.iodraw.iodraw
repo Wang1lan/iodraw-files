@@ -1618,8 +1618,14 @@
         <mxCell id="_cKubMLOPyi9TsIVPMxW-4" value="mean_u12" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="720" y="442" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="_cKubMLOPyi9TsIVPMxW-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_cKubMLOPyi9TsIVPMxW-7" target="_cKubMLOPyi9TsIVPMxW-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_cKubMLOPyi9TsIVPMxW-7" value="clip(Wmin12, 4095)" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="720" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_cKubMLOPyi9TsIVPMxW-10" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="570" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
