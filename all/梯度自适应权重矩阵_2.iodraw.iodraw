@@ -1450,7 +1450,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="buEGjzgyrSj3uRyuX63W-1" value="Padding([0, 4])" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="buEGjzgyrSj3uRyuX63W-1" value="Padding([4, 4])" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="241" y="139" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="w4hhr4j4sM0FR9xcBRVJ-1" value="填充采用‘replicate’&lt;br&gt;边界复制模式" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
