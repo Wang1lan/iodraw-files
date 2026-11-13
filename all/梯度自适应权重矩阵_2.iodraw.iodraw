@@ -1501,12 +1501,12 @@
         <mxCell id="32CvCuuXP4_nc5ZUdoHV-14" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="32CvCuuXP4_nc5ZUdoHV-1">
           <mxGeometry y="96" width="200" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="32CvCuuXP4_nc5ZUdoHV-15" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="32CvCuuXP4_nc5ZUdoHV-14">
+        <mxCell id="32CvCuuXP4_nc5ZUdoHV-15" value="&lt;span style=&quot;color: rgb(255, 0, 0); font-size: 15px;&quot;&gt;K_Q20&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="32CvCuuXP4_nc5ZUdoHV-14">
           <mxGeometry width="100" height="24" as="geometry">
             <mxRectangle width="100" height="24" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="32CvCuuXP4_nc5ZUdoHV-16" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="32CvCuuXP4_nc5ZUdoHV-14">
+        <mxCell id="32CvCuuXP4_nc5ZUdoHV-16" value="&lt;span style=&quot;color: rgb(255, 0, 0); font-size: 15px;&quot;&gt;u32&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="32CvCuuXP4_nc5ZUdoHV-14">
           <mxGeometry x="100" width="100" height="24" as="geometry">
             <mxRectangle width="100" height="24" as="alternateBounds" />
           </mxGeometry>
