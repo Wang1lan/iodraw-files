@@ -345,7 +345,7 @@
         <mxCell id="ogzqjG4fliU2VXpSoeyO-2" value="Padding([1, 1])" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="218" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ogzqjG4fliU2VXpSoeyO-12" value="pixels" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="ogzqjG4fliU2VXpSoeyO-12" value="pixels_u12" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="395" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ogzqjG4fliU2VXpSoeyO-16" value="&lt;b&gt;&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 15px;&quot;&gt;利用sobel算子&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 15px;&quot;&gt;求梯度幅值&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
