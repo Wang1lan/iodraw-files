@@ -1467,7 +1467,7 @@
             <mxRectangle width="100" height="24" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="32CvCuuXP4_nc5ZUdoHV-7" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="32CvCuuXP4_nc5ZUdoHV-5">
+        <mxCell id="32CvCuuXP4_nc5ZUdoHV-7" value="&lt;span style=&quot;color: rgb(255, 0, 0); font-size: 15px;&quot;&gt;u19&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="32CvCuuXP4_nc5ZUdoHV-5">
           <mxGeometry x="100" width="100" height="24" as="geometry">
             <mxRectangle width="100" height="24" as="alternateBounds" />
           </mxGeometry>
