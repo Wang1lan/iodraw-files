@@ -331,7 +331,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ogzqjG4fliU2VXpSoeyO-1" value="Y12" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="ogzqjG4fliU2VXpSoeyO-1" value="&lt;b&gt;Y12&lt;/b&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ogzqjG4fliU2VXpSoeyO-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ogzqjG4fliU2VXpSoeyO-2" target="ogzqjG4fliU2VXpSoeyO-12" edge="1">
