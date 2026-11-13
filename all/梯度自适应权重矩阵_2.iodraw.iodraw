@@ -1497,7 +1497,7 @@
         <mxCell id="Dsn0jvp9E5Pqu_OTAinE-17" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Noto Sans CJK SC&amp;quot;;&quot;&gt;8行缓存＋第9行对齐&lt;/span&gt;&lt;br style=&quot;font-family: &amp;quot;Noto Sans CJK SC&amp;quot;;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Noto Sans CJK SC&amp;quot;;&quot;&gt;9×u16 同拍窗口&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="810" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Dsn0jvp9E5Pqu_OTAinE-20" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Dsn0jvp9E5Pqu_OTAinE-20" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Noto Sans CJK SC&amp;quot;;&quot;&gt;上下各4行复制边界&lt;/span&gt;&lt;br style=&quot;font-family: &amp;quot;Noto Sans CJK SC&amp;quot;;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Noto Sans CJK SC&amp;quot;;&quot;&gt;(replicate MUX)&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="290" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
