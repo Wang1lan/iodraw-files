@@ -1588,6 +1588,9 @@
         <mxCell id="TgZ8uLA7DIbeCThnkvfO-7" value="meanNum_u38" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="435" y="442" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="_cKubMLOPyi9TsIVPMxW-1" value="&amp;gt;&amp;gt;20" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="557.5" width="45" height="45" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
