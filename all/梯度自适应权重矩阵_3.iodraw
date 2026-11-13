@@ -1244,19 +1244,6 @@
         <mxCell id="mapgrad3_notebottom" value="说明：红色减法输入为 a（被减数），蓝色输入为 b（减数）；其余为常规数据流。product_u33 与 roundedNum_u33 沿用 .m 变量名，实际硬件位宽需结合 K_Q20 和阈值关系确认。" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;fontSize=14;strokeColor=none;fillColor=none;fontColor=#555555;" parent="1" vertex="1">
           <mxGeometry x="55" y="1080" width="1780" height="72" as="geometry" />
         </mxCell>
-        <mxCell id="mapgrad3_e1" value="" style="edgeStyle=segmentEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#333333;strokeWidth=1.5;endArrow=block;endFill=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ArNFsslFy0zkfEoDeHA0-2" target="mapgrad3_hiCmp" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="560" y="170" />
-              <mxPoint x="560" y="175" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="mapgrad3_e1_label" value="u19" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;fontColor=#333333;fillColor=#FFFFFF;" parent="mapgrad3_e1" vertex="1" connectable="0">
-          <mxGeometry y="-12" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="mapgrad3_e2" value="" style="edgeStyle=segmentEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#333333;strokeWidth=1.5;endArrow=block;endFill=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="mapgrad3_hiCmp" target="mapgrad3_high" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
