@@ -474,8 +474,8 @@
         <mxCell id="HkqFV1xRTDh1L9yZAOXx-1" value="[h, w] = size(Y12)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="40" y="170" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HkqFV1xRTDh1L9yZAOXx-2" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="295" y="358" width="50" height="30" as="geometry" />
+        <mxCell id="HkqFV1xRTDh1L9yZAOXx-2" value="填充采用‘replicate’&lt;br&gt;边界复制模式" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="260" y="353" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
