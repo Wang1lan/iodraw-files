@@ -1174,13 +1174,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="h0jJOkpe1uB4EaidTvUI-4" value="G_Q4(i, j)&lt;div&gt;&amp;gt;=Thigh_Q4&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="560" y="270" width="120" height="80" as="geometry" />
+          <mxGeometry x="559" y="270" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="h0jJOkpe1uB4EaidTvUI-9" value="W0_12(i,j) = 4095" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="560" y="150" width="120" height="60" as="geometry" />
+          <mxGeometry x="559" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="h0jJOkpe1uB4EaidTvUI-15" value="G_Q4(i, j)&lt;div&gt;&amp;lt;=Tlow_Q4&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="760" y="270" width="120" height="80" as="geometry" />
+          <mxGeometry x="759" y="270" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
