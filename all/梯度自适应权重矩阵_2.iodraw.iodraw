@@ -1210,6 +1210,9 @@
         <mxCell id="kzqVrpXIF-5tUS3HErvq-1" value="G_Q4(i,j)" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="640" y="340" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="kzqVrpXIF-5tUS3HErvq-4" value="G_Q4(i,j)" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="650" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
