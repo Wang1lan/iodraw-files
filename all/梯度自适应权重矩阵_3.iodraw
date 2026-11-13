@@ -1151,6 +1151,9 @@
         <mxCell id="49IntPqC7V_C2nPhCgLu-3" value="&amp;lt;&amp;lt;4" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="230" y="147.5" width="45" height="45" as="geometry" />
         </mxCell>
+        <mxCell id="4eNxr4S_fLQeJYKlI2iu-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ArNFsslFy0zkfEoDeHA0-2" target="mapgrad3_hiCmp">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ArNFsslFy0zkfEoDeHA0-2" value="G_Q4" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="340" y="140" width="120" height="60" as="geometry" />
         </mxCell>
