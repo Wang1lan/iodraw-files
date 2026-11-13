@@ -1788,7 +1788,7 @@
             <mxRectangle width="100" height="24" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qsSsjB2GhvLktbCizDDI-1" value="W12" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="qsSsjB2GhvLktbCizDDI-1" value="&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;W12&lt;/font&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="520" y="658" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
