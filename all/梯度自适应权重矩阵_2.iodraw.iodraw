@@ -1138,7 +1138,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="49IntPqC7V_C2nPhCgLu-2" value="G" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="100" width="120" height="60" as="geometry" />
+          <mxGeometry x="40" y="101" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ArNFsslFy0zkfEoDeHA0-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="49IntPqC7V_C2nPhCgLu-3" target="ArNFsslFy0zkfEoDeHA0-2">
           <mxGeometry relative="1" as="geometry" />
@@ -1149,13 +1149,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="49IntPqC7V_C2nPhCgLu-3" value="&amp;lt;&amp;lt;4" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="230" y="107.5" width="45" height="45" as="geometry" />
+          <mxGeometry x="230" y="108.5" width="45" height="45" as="geometry" />
         </mxCell>
         <mxCell id="h0jJOkpe1uB4EaidTvUI-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ArNFsslFy0zkfEoDeHA0-2" target="h0jJOkpe1uB4EaidTvUI-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ArNFsslFy0zkfEoDeHA0-2" value="G_Q4" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="340" y="100" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="101" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="h0jJOkpe1uB4EaidTvUI-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h0jJOkpe1uB4EaidTvUI-4" target="h0jJOkpe1uB4EaidTvUI-9">
           <mxGeometry relative="1" as="geometry" />
@@ -1166,10 +1166,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="h0jJOkpe1uB4EaidTvUI-4" value="G_Q4(i, j)&lt;div&gt;&amp;gt;=Thigh_Q4&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="560" y="90" width="120" height="80" as="geometry" />
+          <mxGeometry x="560" y="91" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="h0jJOkpe1uB4EaidTvUI-9" value="W0_12(i,j) = 4095" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="760" y="100" width="120" height="60" as="geometry" />
+          <mxGeometry x="760" y="101" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
