@@ -1160,6 +1160,11 @@
         <mxCell id="h0jJOkpe1uB4EaidTvUI-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h0jJOkpe1uB4EaidTvUI-4" target="h0jJOkpe1uB4EaidTvUI-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="h0jJOkpe1uB4EaidTvUI-11" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="h0jJOkpe1uB4EaidTvUI-10">
+          <mxGeometry x="-0.025" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="h0jJOkpe1uB4EaidTvUI-4" value="G_Q4(i, j)&lt;div&gt;&amp;gt;=Thigh_Q4&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="560" y="90" width="120" height="80" as="geometry" />
         </mxCell>
