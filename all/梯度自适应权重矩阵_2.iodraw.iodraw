@@ -1192,7 +1192,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="h0jJOkpe1uB4EaidTvUI-4" value="G_Q4(i, j)&lt;div&gt;&amp;gt;=Thigh_Q4&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+        <mxCell id="h0jJOkpe1uB4EaidTvUI-4" value="G_Q6(i, j)&lt;div&gt;&amp;gt;=Thigh&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="569" y="212" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="13Ix0yTEB2OBB-CIY0s4-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="h0jJOkpe1uB4EaidTvUI-9" target="13Ix0yTEB2OBB-CIY0s4-1" edge="1">
