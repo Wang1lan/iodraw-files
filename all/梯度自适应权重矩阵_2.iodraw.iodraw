@@ -1369,9 +1369,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GqDWZu4BnVSAeaRKJv8J-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_cKubMLOPyi9TsIVPMxW-4" target="GqDWZu4BnVSAeaRKJv8J-7">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="_cKubMLOPyi9TsIVPMxW-4" value="mean" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="720" y="439" width="120" height="60" as="geometry" />
         </mxCell>
