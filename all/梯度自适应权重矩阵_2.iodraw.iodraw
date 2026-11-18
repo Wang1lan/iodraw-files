@@ -1175,7 +1175,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="DpiltwPiM9_jr1eh5tiH" name="初始权重矩阵执行均值滤波">
-    <mxGraphModel dx="1666" dy="757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1372,7 +1372,7 @@
         <mxCell id="GqDWZu4BnVSAeaRKJv8J-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GqDWZu4BnVSAeaRKJv8J-25" target="GqDWZu4BnVSAeaRKJv8J-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GqDWZu4BnVSAeaRKJv8J-30" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GqDWZu4BnVSAeaRKJv8J-29">
+        <mxCell id="GqDWZu4BnVSAeaRKJv8J-30" value="u12" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GqDWZu4BnVSAeaRKJv8J-29">
           <mxGeometry x="-0.1" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
