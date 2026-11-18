@@ -1369,6 +1369,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="GqDWZu4BnVSAeaRKJv8J-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_cKubMLOPyi9TsIVPMxW-4" target="GqDWZu4BnVSAeaRKJv8J-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_cKubMLOPyi9TsIVPMxW-4" value="mean" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="720" y="439" width="120" height="60" as="geometry" />
         </mxCell>
@@ -1409,11 +1412,14 @@
         <mxCell id="GqDWZu4BnVSAeaRKJv8J-7" value="+&#39;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1020" y="446.5" width="45" height="45" as="geometry" />
         </mxCell>
+        <mxCell id="GqDWZu4BnVSAeaRKJv8J-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GqDWZu4BnVSAeaRKJv8J-13" target="GqDWZu4BnVSAeaRKJv8J-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="GqDWZu4BnVSAeaRKJv8J-13" value="mean_temp" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="876.5" y="590" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GqDWZu4BnVSAeaRKJv8J-18" value="+&#39;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="456.5" width="45" height="45" as="geometry" />
+          <mxGeometry x="757.5" y="597.5" width="45" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
