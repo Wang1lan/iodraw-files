@@ -1338,6 +1338,11 @@
         <mxCell id="k8TZLzQWEieSuiuJL4cn-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="k8TZLzQWEieSuiuJL4cn-20" target="k8TZLzQWEieSuiuJL4cn-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="IUzQ2-_Ey25TV_kesIib-1" value="u16" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="k8TZLzQWEieSuiuJL4cn-21">
+          <mxGeometry x="-0.2258" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="k8TZLzQWEieSuiuJL4cn-20" value="2^16" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="318" y="471" width="90" height="40" as="geometry" />
         </mxCell>
