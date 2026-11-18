@@ -1435,7 +1435,7 @@
           <mxGeometry x="757.5" y="597.5" width="45" height="45" as="geometry" />
         </mxCell>
         <mxCell id="GqDWZu4BnVSAeaRKJv8J-23" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="595" y="590" width="120" height="60" as="geometry" />
+          <mxGeometry x="560" y="590" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
