@@ -1175,7 +1175,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="DpiltwPiM9_jr1eh5tiH" name="初始权重矩阵执行均值滤波">
-    <mxGraphModel dx="1666" dy="757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1388" dy="631" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1367,7 +1367,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_cKubMLOPyi9TsIVPMxW-4" value="mean" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="720" y="439" width="120" height="60" as="geometry" />
+          <mxGeometry x="721" y="439" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GqDWZu4BnVSAeaRKJv8J-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GqDWZu4BnVSAeaRKJv8J-25" target="GqDWZu4BnVSAeaRKJv8J-28">
           <mxGeometry relative="1" as="geometry" />
@@ -1378,10 +1378,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="GqDWZu4BnVSAeaRKJv8J-25" value="clip(Wmin12, 4095)" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="720" y="579" width="120" height="60" as="geometry" />
+          <mxGeometry x="721" y="579" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GqDWZu4BnVSAeaRKJv8J-28" value="&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;W12&lt;/font&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="520" y="579" width="120" height="60" as="geometry" />
+          <mxGeometry x="521" y="579" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
