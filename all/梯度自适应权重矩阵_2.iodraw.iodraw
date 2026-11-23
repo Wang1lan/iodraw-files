@@ -32,6 +32,14 @@
         <mxCell id="NNzotfKdO2wK398Sw0J7-2" value="R" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="263" y="139" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="NNzotfKdO2wK398Sw0J7-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NNzotfKdO2wK398Sw0J7-4" target="NNzotfKdO2wK398Sw0J7-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NNzotfKdO2wK398Sw0J7-23" value="u12" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NNzotfKdO2wK398Sw0J7-22">
+          <mxGeometry x="-0.1494" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="NNzotfKdO2wK398Sw0J7-4" value="G" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="263" y="300" width="120" height="60" as="geometry" />
         </mxCell>
@@ -64,7 +72,10 @@
           <mxGeometry x="585" y="139" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NNzotfKdO2wK398Sw0J7-21" value="×" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="480" y="156.5" width="45" height="45" as="geometry" />
+          <mxGeometry x="470" y="307.5" width="45" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="NNzotfKdO2wK398Sw0J7-24" value="871" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="442.5" y="79" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
