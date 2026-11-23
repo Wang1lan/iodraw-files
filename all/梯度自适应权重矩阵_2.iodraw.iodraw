@@ -18,7 +18,7 @@
             <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NNzotfKdO2wK398Sw0J7-1" value="RGB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="NNzotfKdO2wK398Sw0J7-1" value="input_RGB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NNzotfKdO2wK398Sw0J7-2" value="R" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
