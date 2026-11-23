@@ -150,7 +150,7 @@
             <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NNzotfKdO2wK398Sw0J7-37" value="p_B" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="NNzotfKdO2wK398Sw0J7-37" value="P_B" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="585" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NNzotfKdO2wK398Sw0J7-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NNzotfKdO2wK398Sw0J7-40" target="NNzotfKdO2wK398Sw0J7-47">
