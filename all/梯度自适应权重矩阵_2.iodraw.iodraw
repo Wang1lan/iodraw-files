@@ -165,7 +165,10 @@
           <mxGeometry x="790" y="307.5" width="45" height="45" as="geometry" />
         </mxCell>
         <mxCell id="NNzotfKdO2wK398Sw0J7-47" value="Sum" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="939" y="300" width="120" height="60" as="geometry" />
+          <mxGeometry x="901" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NNzotfKdO2wK398Sw0J7-50" value="871" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="442.5" y="79" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
